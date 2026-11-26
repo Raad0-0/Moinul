@@ -1,0 +1,494 @@
+scenario_id,group,text,label,techniques,action
+scen_2_07,robi,"Apnar number Robi lottery te Tk 50,000 jiteche. Prize nite 01XXXXXXXXX e call korun.",2,T4|T5,5
+scen_4_09,pathao,Pathao: Parcel pickup code pete hxxps://reward-pathao[.]xyz theke amader delivery app install korun.,4,T1,4
+scen_4_03,pathao,Pathao: ভুল ঠিকানার কারণে পার্সেল ডেলিভারি হয়নি। 1 hour এর মধ্যে hxxp://track-parcel[.]info/pathao লিংকে ঠিকানা আপডেট করুন।,4,T1|T5,3
+scen_conv_2_01,conv_bkash,"Caller: Hello, congratulations! ||| You: For what? ||| Caller: You have been selected for our bKash customer loyalty reward. ||| You: What is the reward? ||| Caller: A gift parcel worth Tk 50,000. Just pay Tk 500 delivery charge to 01XXXXXXXXX to claim.",2,T3|T4,2
+scen_3_03,city_bank,Crypto investment scheme: Tk 300 invest korle 24 hours e 3x profit! City Bank korun 01XXXXXXXXX e.,3,T3|T6,2
+scen_1_09,city_bank,You won Tk 500 in City Bank Eid offer! Share your City Bank PIN so our officer can credit it.,1,T1|T2|T4,1
+scen_conv_4_01,conv_sa_paribahan,"A: Hello Sakib, calling from SA Paribahan airport cargo. ||| B: Yes, is my parcel here? ||| A: Parcel #6250 arrived from abroad today. ||| B: When will it be delivered? ||| A: Customs cleared only after you pay Tk 1,200 storage fee at hxxps://reward-sa-paribahan[.]xyz within 1 hour.",4,T1|T3|T5,2
+scen_conv_4_01,conv_sa_paribahan,"Caller: Hello Sakib, calling from SA Paribahan airport cargo. ||| Caller: Customs cleared only after you pay Tk 1,500 storage fee at hxxps://reward-sa-paribahan[.]xyz within 3 days.",4,T1|T3|T5,2
+scen_4_06,pathao,Pathao: জরুরি! 24 hours এর মধ্যে যোগাযোগ না করলে পার্সেল #5616 বাতিল হবে। কল করুন +8801XXXXXXXXX।,4,T1|T5,5
+scen_1_07,robi,Robi notice: SIM off hoye jabe 24 hours er moddhe. Verify korte NID ar OTP pathan.,1,T1|T2|T5,1
+scen_2_10,steadfast,Steadfast gift parcel peyechn Tk 300 er! Customs charge Tk 300 dile release hobe.,2,T1|T3|T4,2
+scen_conv_2_01,conv_bkash,"Hello, congratulations! ||| For what? ||| You have been selected for our bKash customer loyalty reward. ||| What is the reward? ||| A gift parcel worth Tk 25,000. Just pay Tk 500 delivery charge to +8801XXXXXXXXX to claim.",2,T3|T4,2
+scen_conv_1_01,conv_bkash,"S: Assalamu Alaikum Farhana vai, kemon achen? ||| R: Wa Alaikum Assalam, bhalo. Apni ke bolchen? ||| S: Ami bKash customer care theke bolchi. Apnar account verification pending. ||| R: Oh, ki korte hobe? ||| S: Kichu na, just apnar phone e ekta 6-digit OTP gese, oita bolen noile 30 minutes por account off hobe.",1,T1|T2|T5,1
+scen_4_08,pathao,"এয়ারপোর্ট কার্গো Pathao: আপনার আন্তর্জাতিক পার্সেল ক্লিয়ারেন্সের জন্য 50,000 টাকা ফি দিন।",4,T1|T3|T5,2
+scen_5_03,city_bank,City Bank app diye bill pay korle 5% cashback paben. Offer valid for 3 days.,5,NONE,0
+scen_0_01,city_bank,"City Bank: Cash-in of Tk 1,500 from +8801XXXXXXXXX successful. Current balance Tk 12,450.",0,NONE,0
+scen_1_08,city_bank,City Bank officer bolchi: apnar account upgrade korte internet banking password ar OTP lagbe.,1,T1|T2,1
+scen_1_08,city_bank,I am calling from City Bank Head Office. Your ATM card is expired; tell me your internet banking password and OTP.,1,T1|T2,1
+scen_4_07,pathao,"Pathao সিওডি ভেরিফিকেশন: অর্ডার #6115 কনফার্ম করতে 2,000 টাকা অগ্রিম পরিশোধ করুন।",4,T1|T3,2
+scen_4_09,steadfast,Steadfast Smart Locker: Install our courier app at hxxps://bd-verify[.]xyz/steadfast to generate your parcel pickup QR code.,4,T1,4
+scen_3_10,pathao,Pathаo ফ্রিল্যান্সিংপ্রজেক্ট: প্রতিটি কাজে 500 টাকা পেমেন্ট। রেজিস্টার করুন: hXхps://pathaо-kyC[.]Top/veRi﻿fy 👉,3,T1|T6,3
+scen_1_07,gp,GP sIM erifiCaTion: your SIM will be deaccctivatedddI‌n 3 d﻿аyssss‌ . bcdfghj Send NID fr ont/back phoTо аnd 0tp. ❗,1,T1|T2|T5,1
+scen_4_09,pathao,Pathao স্মার্ট লকার: পার্সেল #7108 সংগ্রহের কিউআর কোড পেতে অ্যাপ ডাউনলোড করুন: hxxps://reward-pathao[.]xyz,4,T1,4
+scen_conv_0_02,conv_steadfast,"[Sender] Hello, Steadfast rider bolchi. Apnar parcel #8185 niye aschi. ||| [You] Ami Bashundhara gate er samne achi. Koto taka COD? ||| [Sender] Tk 10,000 cash on delivery. 5 minute e pouchacchi. ||| [You] Thik ache, ami wait korchi.",0,NONE,0
+scen_conv_4_01,conv_steadfast,"[Sender] Hello Sakib, calling from Steadfast airport cargo. ||| [Sender] Customs cleared only after you pay Tk 2,000 storage fee at hxxps://bd-verify[.]xyz/steadfast within 3 days.",4,T1|T3|T5,2
+scen_4_03,steadfast,Steadfast: ভুল ঠিকানার কারণে পার্সেল ডেলিভারি হয়নি। 24 hours এর মধ্যে hxxps://bd-verify[.]xyz/steadfast লিংকে ঠিকানা আপডেট করুন।,4,T1|T5,3
+scen_4_03,steadfast,Steadfast: Delivery failed due to incomplete address. Update your address within 3 days at hxxp://track-parcel[.]info/steadfast or parcel returns.,4,T1|T5,3
+scen_2_07,robi,"Apnar number Robi lottery te Tk 50,000 jiteche. Prize nite 01XXXXXXXXX e call korun.",2,T4|T5,5
+scen_0_09,city_bank,"Hi Nusrаt, mEеtIng ta 3 dayyyyS POe Hobe. officccce e‍ chole esho. xkcdpl",0,NONE,0
+scen_3_05,pathao,"Pathao টাস্ক প্রোগ্রাম: প্রোডাক্ট রিভিউ করে 2,000 টাকা বোনাস পান। শুরু করতে 2,000 টাকা ডিপোজিট করুন।",3,T1|T3|T6,2
+scen_0_04,steadfast,Steadfast আপডেট: আপনার অর্ডার #5477 আজ ডেলিভারি করা হবে।,0,NONE,0
+scen_5_02,robi,Robi﻿ OffeR: GЕ t 10GB + 200 mins aTk 500 For 30 wkrjfejejrn days. Dial *121*50# to aaacti vate.,5,NONE,0
+scen_0_08,pathao,qwrtyps PatHao: আপনার অর্ড‌ার​ #7209 স ফলভাবে ডেলিভার হয়েছে। আমাদের সাথে থাকার জ​ন্য ধন্যবাদ। 🎁,0,NONE,0
+scen_4_05,steadfast,Steadfast ট্র্যাকিং: আপনার প্যাকেজ #2006 পৌঁছেছে। স্লিপ দেখতে hxxps://steadfast-kyc[.]top/verify লিংকে ক্লিক করুন।,4,T1,3
+scen_0_03,city_bank,"আপনার City Bank বিল 50,000 টাকা আগামী 3 days এর মধ্যে পরিশোধ করুন।",0,NONE,0
+scen_5_01,pathao,Pathao Eid Mega Sale! Flat 30% discount on electronics and fashion. Use code EID30.,5,NONE,0
+scen_4_01,steadfast,"Stеa‌dfasT: আপনার পার‍্স‍েল #5723 হাব-এ আটকে আছে। ছাড়াতে 1,200 টাকা স্টোরেজ ফি দিন: 👉 hхxps://rEW​ard-steadfAs﻿t[.]xyz",4,T1|T3,2
+scen_4_05,pathao,Pathao: Apnar parcel #8553 track korte ebong receive korte hxxp://track-parcel[.]info/pathao e tap korun.,4,T1,3
+scen_2_05,city_bank,"City Bank spin wheel e Tk 1,200 jitechen! App install korun ekhan theke: hxxp://track-parcel[.]info/city-bank",2,T1|T4,4
+scen_0_09,city_bank,"Hi Nusrat, meeting ta 3 days pore hobe. Office e chole esho.",0,NONE,0
+scen_3_03,city_bank,"Double your money in 30 minutes! Invest Tk 50,000 in our VIP crypto pool and get 300% return. Send to +8801XXXXXXXXX.",3,T3|T6,2
+scen_4_02,steadfast,"Customs Hold: Your overseas parcel #9530 via Steadfast requires Tk 10,000 duty within 3 days. Pay to 01XXXXXXXXX.",4,T1|T3|T5,2
+scen_5_07,city_bank,City Bank ক্রেডিট কার্ডে পাচ্ছেন বাই-ওয়ান-গেট-ওয়ান বুফে অফার!,5,NONE,0
+scen_1_02,city_bank,"Dear City Bank user, KYC update na korle account block hobe. 1 hour er moddhe OTP ar PIN pathan.",1,T1|T2|T5,1
+scen_conv_4_01,conv_sa_paribahan,"A: Hello Rahim, calling from SA Paribahan airport cargo. ||| B: Yes, is my parcel here? ||| A: Parcel #2394 arrived from abroad today. ||| B: When will it be delivered? ||| A: Customs cleared only after you pay Tk 1,500 storage fee at hxxps://reward-sa-paribahan[.]xyz within 24 hours.",4,T1|T3|T5,2
+scen_4_06,steadfast,Steadfast urgent: Apnar parcel #7108 return hoye jabe 3 days por. Ekhoni 01XXXXXXXXX e call korun.,4,T1|T5,5
+scen_2_06,pathao,"Pa﻿thhha​o থেকে আপনি ফ্রি স্মার্টফোন জিতেছেন! ডেলিভারি চার্জ 50,000 টাকা 👉 পাঠিয়ে কনফার্ম করুন।",2,T3|T4|T5,2
+scen_1_02,city_bank,"DearCit‍y Bannnk uSer, KYC upDattte na‌ korlE aCcnt‌ blоck hoBe. 1 hour e‍r mODd﻿heeee -t-p ar p-i-n pathan.",1,T1|T2|T5,1
+scen_4_08,pathao,"Airport Cargo Pathao: Diplomatic parcel #4781 clearance fee Tk 1,500 due in 30 minutes.",4,T1|T3|T5,2
+scen_dom_2,dom_bkash,"Subject: fficial Winner NoTification - bk@sh ANuAl Draw
+De​ar Rahim,
+оu have wOn TK 2,000 in our﻿ a﻿nnuuuaaaaL proMоtion. toooo releasE your wkrjfejejrn pr izE within 30 m‌inute, rEmIt Tk 500 pocessssing fee tooo 01ХХXxХXХxX.",2,T1|T3|T4,2
+scen_2_02,robi,Rоbi থেকে ফ্রি ২০ জিবি ই‍ন্টারনেট গিফট! ❗ 3 days এর মধ﻿্যে hxxp://tracK-рarcel[.]INfo/rObi লিংকে ক ্লিক করুন।,2,T1|T4|T5,3
+scen_5_06,pathao,Pathao Food: Enjoy 20% off on your next 3 orders over Tk 400 with promo code FOOD20.,5,NONE,0
+scen_1_09,city_bank,"You won Tk 5,000 in City Bank Eid offer! Share your City Bank PIN so our officer can credit it.",1,T1|T2|T4,1
+scen_5_06,pathao,Pathao Food: Enjoy 20% off on your next 3 orders over Tk 400 with promo code FOOD20.,5,NONE,0
+scen_4_06,pathao,Pathao: Urgent! Parcel #8489 will be auctioned in 1 hour. Call 01XXXXXXXXX immediately to confirm.,4,T1|T5,5
+scen_conv_4_01,conv_steadfast,"S: Hello Rahim, calling from Steadfast airport cargo. ||| S: Customs cleared only after you pay Tk 5,000 storage fee at hxxps://steadfast-kyc[.]top/verify within 1 hour.",4,T1|T3|T5,2
+scen_4_08,steadfast,Airport Cargo Steadfast: Diplomatic parcel #5342 clearance fee Tk 300 due in 3 days.,4,T1|T3|T5,2
+scen_4_01,pathao,"Pathao notice: Parcel #9237 atke ase. Tk 1,200 delivery fee pay korun hxxps://pathao-kyc[.]top/verify e.",4,T1|T3,2
+scen_0_03,robi,"Reminder: Your Robi monthly bill of Tk 1,200 is due in 24 hours. Pay via official app.",0,NONE,0
+scen_4_02,pathao,"Customs Hold: Your overseas parcel #2234 via Pathao requires Tk 10,000 duty within 24 hours. Pay to +8801XXXXXXXXX.",4,T1|T3|T5,2
+scen_4_07,steadfast,"Steadfast সিওডি ভেরিফিকেশন: অর্ডার #8278 কনফার্ম করতে 50,000 টাকা অগ্রিম পরিশোধ করুন।",4,T1|T3,2
+scen_1_07,robi,Robi SIM Verification: Your SIM will be deactivated in 1 hour. Send NID front/back photo and OTP.,1,T1|T2|T5,1
+scen_4_03,pathao,Pathao: Delivery failed due to incomplete address. Update your address within 30 minutes at hxxps://pathao-claim[.]top or parcel returns.,4,T1|T5,3
+scen_5_06,pathao,Pathao 🔥 od: Enjoy 20% off on y our  Next mnbvcxz 3 ord​ers oVVVVer tk 400 wit‌hhh promo cOde fOOD20.,5,NONE,0
+scen_2_10,steadfast,"Steadfast থেকে আপনার জন্য 25,000 টাকার গিফট পার্সেল এসেছে। কাস্টমস ফি ৩৫০ টাকা পরিশোধ করুন।",2,T1|T3|T4,2
+scen_5_07,city_bank,City Bank ক্রেডিট কার্ডে পাচ্ছেন বাই-ওয়ান-গেট-ওয়ান বুফে অফার!,5,NONE,0
+scen_5_06,pathao,Pathаo r‌ide e 50% DiScouNt‌! Promo CodE RI D Е50 use koru﻿n aajki.,5,NONE,0
+scen_0_08,pathao,"Hi Rahim, apnar Pathao order #3496 delivered hoyeche. Invoice email e pathano hoyeche.",0,NONE,0
+scen_1_02,city_bank,"Dear City Bank user, KYC update na korle account block hobe. 1 hour er moddhe OTP ar PIN pathan.",1,T1|T2|T5,1
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_2_02,gp,"GP anniversary offer: Free 10GB data! Ekhoni hxxps://gp-claim[.]top e click korun, time 30 minutes.",2,T1|T4|T5,3
+scen_5_07,city_bank,City Bank Credit Card: Enjoy Buy-1-Get-1 buffet at leading 5-star hotels this weekend.,5,NONE,0
+scen_0_07,robi,"ধন্যবাদ! আপনারrobi নম্বরে 💰 10,000 টাক‌া রিচ﻿ার্জ স ফ ল হ য়েছে।",0,NONE,0
+scen_0_07,robi,Robi: Tk 500 recharge successful. Validity extended by 30 days.,0,NONE,0
+scen_2_06,pathao,"Pathao থেকে আপনি ফ্রি স্মার্টফোন জিতেছেন! ডেলিভারি চার্জ 1,200 টাকা পাঠিয়ে কনফার্ম করুন।",2,T3|T4|T5,2
+scen_5_06,pathao,Pathao Food: Enjoy 20% off on your next 3 orders over Tk 400 with promo code FOOD20.,5,NONE,0
+scen_0_04,pathao,Pathao: Your order #6928 is out for delivery today. Rider +8801XXXXXXXXX will call.,0,NONE,0
+scen_5_02,robi,Robi Offer: Get 10GB + 200 mins at Tk 500 for 30 days. Dial *121*50# to activate.,5,NONE,0
+scen_3_10,pathao,"Pathao ফ্রিল্যান্সিং প্রজেক্ট: প্রতিটি কাজে 50,000 টাকা পেমেন্ট। রেজিস্টার করুন: hxxps://pathao-kyc[.]top/verify",3,T1|T6,3
+scen_1_04,pathao,PаThao 💰 চাকরির অফার: বেতন 500 টাকা। জয়েনিং কনফার্ম ক‍রতে আপনার ফোনে আসা ও ট িপি এবং পাস ওয়ার্ড দিন।,1,T1|T2|T5|T6,1
+scen_4_05,steadfast,Steadfast: Apnar parcel #7788 track korte ebong receive korte hxxps://reward-steadfast[.]xyz e tap korun.,4,T1,3
+scen_1_09,city_bank,You won Tk 500 in City Bank Eid offer! Share your City Bank PIN so our officer can credit it.,1,T1|T2|T4,1
+scen_1_07,gp,GP SIM Verification: Your SIM will be deactivated in 3 days. Send NID front/back photo and OTP.,1,T1|T2|T5,1
+scen_4_04,pathao,Pathao: Apnar parcel #5033 redelivery korte Tk 50 fee pay korte hobe hxxps://reward-pathao[.]xyz e.,4,T1|T3|T5,2
+scen_2_06,pathao,Pathao থেকে আপনি ফ্রি স্মার্টফোন জিতেছেন! ডেলিভারি চার্জ 300 টাকা পাঠিয়ে কনফার্ম করুন।,2,T3|T4|T5,2
+scen_4_01,steadfast,"Steadfast: আপনার পার্সেল #5723 হাব-এ আটকে আছে। ছাড়াতে 1,200 টাকা স্টোরেজ ফি দিন: hxxps://reward-steadfast[.]xyz",4,T1|T3,2
+scen_4_01,steadfast,"Steadfast: আপনার পার্সেল #1668 হাব-এ আটকে আছে। ছাড়াতে 10,000 টাকা স্টোরেজ ফি দিন: hxxps://bd-verify[.]xyz/steadfast",4,T1|T3,2
+scen_3_08,city_bank,DowNload oUr 👉  ear﻿ning apP аnd qwrtyps earn Tk 300 ddddal by watсhing ads! Inst аllll now: hxxpS://сity -bAnk-ccclaim[.]top,3,T6,4
+scen_4_06,steadfast,Steadfast urgent: Apnar parcel #5175 return hoye jabe 3 days por. Ekhoni 01XXXXXXXXX e call korun.,4,T1|T5,5
+scen_1_04,pathao,"Congratulations! Selected for Pathao remote job paying Tk 2,000/month. Reply with OTP & NID to activate payroll.",1,T1|T2|T5|T6,1
+scen_1_01,city_bank,"This is City Bank agent Nusrat. I sent Tk 25,000 by mistake. Share your OTP to reverse it.",1,T1|T2|T5,1
+scen_0_03,city_bank,"Apnar City Bank postpaid bill Tk 5,000 due ache. Official app diye pay korun.",0,NONE,0
+scen_1_06,city_bank,"Apnar City Bank Tk 2,000 bonus claim korte hxxps://city-bank-kyc[.]top/verify e giye PIN ar OTP submit korun.",1,T2|T5,1
+scen_4_10,steadfast,Ste adfast: eight mismmmmaaaat﻿ch 🔥 on рarCel #8145. Py Tk 120 extra surСhаrge via hxxps://SteAdfast-claim[.]top mnbvcxz to avoid d‍elay.,4,T1|T3,3
+scen_2_07,city_bank,Apnar number City Bank lottery te Tk 500 jiteche. Prize nite +8801XXXXXXXXX e call korun.,2,T4|T5,5
+scen_4_10,pathao,Pathao: পার্সেল #7799 এর ওজন বেশি হওয়ায় অতিরিক্ত ১২০ টাকা চার্জ দিন: hxxps://bd-verify[.]xyz/pathao,4,T1|T3,3
+scen_2_08,city_bank,City Bank গোল্ডেন জুবিলি উপহার 500 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ টাকা পাঠান।,2,T3|T4,2
+scen_5_01,pathao,Pathao Eid Mega Sale! Flat 30% discount on electronics and fashion. Use code EID30.,5,NONE,0
+scen_conv_4_01,conv_steadfast,"Hello Rafiq, calling from Steadfast airport cargo. ||| Yes, is my parcel here? ||| Parcel #8281 arrived from abroad today. ||| When will it be delivered? ||| Customs cleared only after you pay Tk 10,000 storage fee at hxxp://track-parcel[.]info/steadfast within 24 hours.",4,T1|T3|T5,2
+scen_4_08,steadfast,এয়ারপোর্ট কার্গো ste‍adfast: আপনার আন্তর্জাতিক পার্সেল ক্লিয়ারেন্সের zzqwpo জন্য 300 টাকা ফি দিন।,4,T1|T3|T5,2
+scen_2_02,robi,"Free 15GB data gift from Robi for you! Tap hxxps://reward-robi[.]xyz now, offer expires in 30 minutes.",2,T1|T4|T5,3
+scen_0_07,robi,"RRRRoI: TK 1,200 recHaaargE  successssf u‌l. VaL‍iDt y ex tЕnd‌ed 💰 by 30 days.",0,NONE,0
+scen_conv_4_01,conv_steadfast,"[Sender] Hello Tanvir, calling from Steadfast airport cargo. ||| [Sender] Customs cleared only after you pay Tk 5,000 storage fee at hxxp://track-parcel[.]info/steadfast within 1 hour.",4,T1|T3|T5,2
+scen_dom_1,dom_bkash,"SUbjEct‍: URGeNT‌ Kyyyyc﻿ uspenSin Notice 
+DEar bk‌aash CustOmer,
+yourrrr accounnnt is Flgged for suspIcio​us acTi​vTy a nd wIll be suspENdeD iN 30 minuttttes. Su bmit your NI number, PiN, a n﻿D 6-Digit oooootp at hxxs://bka‌sh-kyc[.]toр /verifiy immed‍iаtelY.",1,T1|T2|T5,1
+scen_0_08,pathao,PathАо: আপনার অ​র্ডার #8962 সফ﻿লভাবে ডেলিভ ার হয়েছে। আমাদের সাথে 🔥 থাকার qwrtyps জন্য ধন্যবাদ।,0,NONE,0
+scen_1_08,city_bank,I am calling from City Bank Head Office. Your ATM card is expired; tell me your internet banking password and OTP.,1,T1|T2,1
+scen_2_07,city_bank,"appppnaR number Cit‍y BaNk lottery tе TK 1,200 jiTeChe. Prize ite +8801XXXXXXXXX ⚠️ е cll korrrun.",2,T4|T5,5
+scen_1_03,city_bank,City Bank helpline: apnar Tk 500 refund korte card details ar OTP ta reply korun.,1,T1|T2,1
+scen_4_01,steadfast,"Steadfast: Parcel #6940 held at Dhaka hub. Pay Tk 2,000 storage fee via hxxps://steadfast-claim[.]top to release.",4,T1|T3,2
+scen_5_02,gp,"GP Offer: Get 10GB + 200 mins at Tk 1,200 for 30 days. Dial *121*50# to activate.",5,NONE,0
+scen_0_03,city_bank,"Reminder: Your City Bank monthly bill of Tk 10,000 is due in 24 hours. Pay via official app.",0,NONE,0
+scen_4_08,pathao,এয়ারপোর্ট কার্গো Pathao: আপনার আন্তর্জাতিক পার্সেল ক্লিয়ারেন্সের জন্য 500 টাকা ফি দিন।,4,T1|T3|T5,2
+scen_0_03,gp,"আপনার GP বিল 25,000 টাকা আগামী 30 minutes এর মধ্যে পরিশোধ করুন।",0,NONE,0
+scen_3_08,city_bank,Download our earning app and earn Tk 300 daily by watching ads! Install now: hxxps://city-bank-claim[.]top,3,T6,4
+scen_conv_0_02,conv_steadfast,"S: Hello, Steadfast rider bolchi. Apnar parcel #4670 niye aschi. ||| R: Ami Bashundhara gate er samne achi. Koto taka COD? ||| S: Tk 5,000 cash on delivery. 5 minute e pouchacchi. ||| R: Thik ache, ami wait korchi.",0,NONE,0
+scen_conv_2_01,conv_bkash,"[Sender] Hello, congratulations! ||| [You] For what? ||| [Sender] You have been selected for our bKash customer loyalty reward. ||| [You] What is the reward? ||| [Sender] A gift parcel worth Tk 1,500. Just pay Tk 500 delivery charge to +8801XXXXXXXXX to claim.",2,T3|T4,2
+scen_2_08,city_bank,City Bank গোল্ডেন জুবিলি উপহার 300 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ টাকা পাঠান।,2,T3|T4,2
+scen_conv_2_01,conv_bkash,"S: Hello, congratulations! ||| S: A gift parcel worth Tk 300. Just pay Tk 500 delivery charge to +8801XXXXXXXXX to claim.",2,T3|T4,2
+scen_1_03,city_bank,"City Bank refund team: send your card number, expiry date, and CVV to process Tk 2,000 refund.",1,T1|T2,1
+scen_0_05,city_bank,City bank: ⚠️ আপনার mnbvcxz অ্যাকাউন্ট থেকে 500 টাকা ডেবিট হয﻿়েছে। কোনো সমস্যা হলে ১৬২২১-এ কল করুন।,0,NONE,0
+scen_4_01,steadfast,"Steadfast: Parcel #2260 held at Dhaka hub. Pay Tk 1,500 storage fee via hxxps://steadfast-claim[.]top to release.",4,T1|T3,2
+scen_0_07,robi,Apnar Robi number e Tk 300 recharge hoyeche. Current balance Tk 145.,0,NONE,0
+scen_4_04,pathao,Pathao: Apnar parCеl #5033 redEL﻿iver‍y korte Tk 50 Fеe pay kOrte hoBe hxxps://reward-pAthao[.]xyz e.,4,T1|T3|T5,2
+scen_2_02,gp,"GP anniversary offer: Free 10GB data! Ekhoni hxxps://bd-verify[.]xyz/gp e click korun, time 30 minutes.",2,T1|T4|T5,3
+scen_0_08,pathao,"Hi Rahim, apnar Pathao order #7939 delivered hoyeche. Invoice email e pathano hoyeche.",0,NONE,0
+scen_4_02,steadfast,"CUsto‌ms Hold: Your ovеrSeas 👉 p аarcel #9530 via Stead‌fаst requires T​k 10,000 duty within 3 bcdfghj days. Pay ttto 01xxxXXX‍XХXXX.",4,T1|T3|T5,2
+scen_4_06,steadfast,Steadfast: জরুরি! 3 days এর মধ্যে যোগাযোগ না করলে পার্সেল #5412 বাতিল হবে। কল করুন 01XXXXXXXXX।,4,T1|T5,5
+scen_3_05,pathao,"Pathao online task: 5 ta order complete korle Tk 5,000 profit. First e Tk 1,000 deposit korun.",3,T1|T3|T6,2
+scen_0_09,city_bank,"Hey Tasnim, did you receive the notes I sent yesterday? Let me know.",0,NONE,0
+scen_2_01,gp,GP lucky draw te apni Tk 300 jitechen! Claim korte Tk 300 fee +8801XXXXXXXXX e pathan.,2,T1|T3|T4,2
+scen_5_01,pathao,Pathao Eid Mega Sale! Flat 30% discount on electronics and fashion. Use code EID30.,5,NONE,0
+scen_dom_2,dom_bkash,"Subject: Official Winner Notification - bKash Annual Draw
+Dear Rafiq,
+You have won Tk 500 in our annual promotion. To release your prize within 3 days, remit Tk 500 processing fee to +8801XXXXXXXXX.",2,T1|T3|T4,2
+scen_1_07,robi,Robi SIM Verification: Your SIM will be deactivated in 1 hour. Send NID front/back photo and OTP.,1,T1|T2|T5,1
+scen_conv_0_01,conv_bkash,"Caller: Hey Nusrat, free acho? ||| You: Ha bolo, ki hoyeche? ||| Caller: Ekta SMS ashlo je ami bKash e Tk 1,500 jitesi, PIN chaitese. ||| You: Oita fake! bKash kokhono PIN chay na. Number ta block kore dao. ||| Caller: Thanks bhai, block kore disi.",0,NONE,0
+scen_3_03,city_bank,"DoublЕ your moNey 🎁 i﻿n qwrtyps 30 minutes! Inest Tk 10,000 in our VIPcrypt﻿O poОl nd﻿ get 300% reTurn. Send tо 01ХX‍XXXXXXx.",3,T3|T6,2
+scen_dom_2,dom_banglalink,"[G‍roupppp Nоtice] @eVeryоne BanglalInk just lauNched a  giVeaway! Eveeery membеR bcdfghj Gе‌ts Tk 25,000 ccccashback—pay Tk 300 verification crge Via h﻿XXps://Rew‍ard-BanglaliNk[.]XyZ to uNlock.",2,T1|T3|T4,2
+scen_1_03,city_bank,CiTy BAnk hel pline: apna Tk 300 rеfund Kote Carrrrd details ar 🔥 OTP ta repl​y kOrun.,1,T1|T2,1
+scen_2_08,city_bank,"City Bank গোল্ডেন জুবিলি উপহার 1,500 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ টাকা পাঠান।",2,T3|T4,2
+scen_5_02,gp,"GP bundle offer: Tk 5,000 e 15GB data, meyad 15 din. MyGP app theke nin.",5,NONE,0
+scen_5_06,pathao,pAthao ride e 50% discount! prоmo code RIDE50 use koRun aAjKei.,5,NONE,0
+scen_4_06,pathao,PaThаo: urGеn! Parcel #1775 will be auctined  in zzqwpo 30 mnut﻿es. 👉 Call +8801XxXXXXXxX immediately t‌o coNfirm.,4,T1|T5,5
+scen_0_04,pathao,Apnar Pathao parcel #8316 Chattogram hub e pouchheche. Branch theke collect korun.,0,NONE,0
+scen_conv_0_02,conv_sa_paribahan,"Hello, SA Paribahan rider bolchi. Apnar parcel #8899 niye aschi. ||| Thik ache, ami wait korchi.",0,NONE,0
+scen_conv_4_01,conv_sa_paribahan,"[Sender] Hello Nusrat, calling from SA Paribahan airport cargo. ||| [You] Yes, is my parcel here? ||| [Sender] Parcel #5277 arrived from abroad today. ||| [You] When will it be delivered? ||| [Sender] Customs cleared only after you pay Tk 1,200 storage fee at hxxps://sa-paribahan-claim[.]top within 3 days.",4,T1|T3|T5,2
+scen_4_01,pathao,"Pathao notice: Parcel #8025 atke ase. Tk 5,000 delivery fee pay korun hxxps://bd-verify[.]xyz/pathao e.",4,T1|T3,2
+scen_2_07,robi,"Apnar number Robi lottery te Tk 2,000 jiteche. Prize nite +8801XXXXXXXXX e call korun.",2,T4|T5,5
+scen_dom_2,dom_bkash,"Subject: Official Winner Notification - bKash Annual Draw
+Dear Rahim,
+You have won Tk 2,000 in our annual promotion. To release your prize within 30 minutes, remit Tk 500 processing fee to 01XXXXXXXXX.",2,T1|T3|T4,2
+scen_1_10,city_bank,City Bank account active rakhte 3 days er moddhe hxxps://reward-city-bank[.]xyz e giye mobile number o PIN din.,1,T1|T2|T5,1
+scen_hn_quote_04,hn_steadfast,Friend warned me today: never click 'hxxps://steadfast-kyc[.]top/verify' even if it says 'Steadfast free 10GB gift'.,0,NONE,0
+scen_1_03,city_bank,"City Bank helpline: apnar Tk 10,000 refund korte card details ar OTP ta reply korun.",1,T1|T2,1
+scen_0_08,pathao,"Hi Sakib, apnar Pathao order #3953 delivered hoyeche. Invoice email e pathano hoyeche.",0,NONE,0
+scen_conv_4_01,conv_steadfast,"A: Hello Farhana, calling from Steadfast airport cargo. ||| B: Yes, is my parcel here? ||| A: Parcel #9769 arrived from abroad today. ||| B: When will it be delivered? ||| A: Customs cleared only after you pay Tk 10,000 storage fee at hxxps://steadfast-claim[.]top within 24 hours.",4,T1|T3|T5,2
+scen_0_04,steadfast,Steadfast: Your order #6514 is out for delivery today. Rider +8801XXXXXXXXX will call.,0,NONE,0
+scen_4_10,steadfast,Steadfast: Weight mismatch on parcel #8145. Pay Tk 120 extra surcharge via hxxps://steadfast-claim[.]top to avoid delay.,4,T1|T3,3
+scen_2_07,gp,"লটারি বিজয়ী! আপনার নম্বর GP ড্র-তে 1,500 টাকা জিতেছে। 1 hour এর মধ্যে 01XXXXXXXXX নম্বরে কল করুন।",2,T4|T5,5
+scen_4_05,pathao,Pathao: АpnAr parc‌el‌ll #7722 traСk Korte еb оng re﻿cеive kort​e hXxps://pathao-clai​m[.]tOp e tap kor﻿un.,4,T1,3
+scen_1_07,robi,RoBi Noticeee: S‌IM oFFFFF ❗ hoye xkcdpl jabbbbeeee 24 hours er mоdhe. vеrfyyyy korTE ND aR OTPpathhhаN.,1,T1|T2|T5,1
+scen_4_03,pathao,Pathao: Delivery failed due to incomplete address. Update your address within 3 days at hxxps://reward-pathao[.]xyz or parcel returns.,4,T1|T5,3
+scen_4_06,steadfast,S teadfast: জরুরি! 3 Days এর 👉 মধ্যে যোগাযোগ ন‌া করলে পার্সেল#5412 বাতিল হবে। কল ক‍রুন 01XXXXXXX​XX।,4,T1|T5,5
+scen_4_03,steadfast,Steadfast: ভুল ঠিকানার কারণে পার্সেল ডেলিভারি হয়নি। 3 days এর মধ্যে hxxps://reward-steadfast[.]xyz লিংকে ঠিকানা আপডেট করুন।,4,T1|T5,3
+scen_5_01,pathao,Pa​tha‍o ঈদ মেগা সেল! সব পণ্যে ৩০% পর্যন্ত ছাড়। আজই শপিং করুন!,5,NONE,0
+scen_4_03,steadfast,Steadfast: ভুল ঠিকানার কারণে পার্সেল ডেলিভারি হয়নি। 3 days এর মধ্যে hxxps://reward-steadfast[.]xyz লিংকে ঠিকানা আপডেট করুন।,4,T1|T5,3
+scen_3_10,pathao,Pathao ফ্রিল্যান্সিং প্রজেক্ট: প্রতিটি কাজে 500 টাকা পেমেন্ট। রেজিস্টার করুন: hxxps://pathao-kyc[.]top/verify,3,T1|T6,3
+scen_5_06,pathao,Pathao ফুড: আপনার পছন্দের রেস্টুরেন্টে ২০% ছাড় পেতে FOOD20 কোড ব্যবহার করুন।,5,NONE,0
+scen_conv_0_02,conv_steadfast,"A: HeeeelL, SteaD​fast rider bo‍lch​i. A pnar parcelllll#2303 niyе aschi.  ❗ ||| B: Ami BashundhhhARa gate errr aaaamne ach​iii. Koto Taaka  CoD? ||| A: Tk 10,000 cas﻿h on DеlIvery. 5 minute eee pouchaсchhhhi. ||| B: Thik ache, ⚠️ аmi waIt koRCi.",0,NONE,0
+scen_5_07,city_bank,City Bank Credit Card: Enjoy Buy-1-Get-1 buffet at leading 5-star hotels this weekend.,5,NONE,0
+scen_conv_4_01,conv_steadfast,"A: Hello Farhana, calling from Steadfast airport cargo. ||| B: Yes, is my parcel here? ||| A: Parcel #3129 arrived from abroad today. ||| B: When will it be delivered? ||| A: Customs cleared only after you pay Tk 1,500 storage fee at hxxps://reward-steadfast[.]xyz within 1 hour.",4,T1|T3|T5,2
+scen_0_02,gp,Never share your GP PIN or OTP 883300. Staff will never ask for it.,0,NONE,0
+scen_0_07,robi,"Robi: Tk 1,500 recharge successful. Validity extended by 30 days.",0,NONE,0
+scen_3_05,pathao,"Pathao online task: 5 ta order complete korle Tk 2,000 profit. First e Tk 1,000 deposit korun.",3,T1|T3|T6,2
+scen_4_04,pathao,Pathao: Apnar parcel #2959 redelivery korte Tk 50 fee pay korte hobe hxxps://reward-pathao[.]xyz e.,4,T1|T3|T5,2
+scen_conv_4_01,conv_steadfast,"A: HELLLlo RAhIm, ccccalling fRom Steadfa﻿st arpOrt Ca‍rgo. 🎁 ||| B: Yes, is m bcdfghj pаRcl here? ||| A: parcl #8401 ar‌rived fRО﻿m abroаdddd todaaay. 💰 ||| B: Whenwill it zzqwpo be ❗ delllivre﻿D? ||| A: Custоms cLe﻿ae ONlY aFter you pa​y Tk 2,000 sssstoragE bcdfghj FeE at hX﻿xps://sssTeaDfast-kyc[.]tOp/v3rify Within 24 houRs.",4,T1|T3|T5,2
+scen_3_08,city_bank,অ্যাড দেখে প্রতিদিন 300 টাকা ইনকাম করুন! অ্যাপ ডাউনলোড লিংক: hxxps://city-bank-claim[.]top,3,T6,4
+scen_4_03,steadfast,Steadfast: Delivery failed due to incomplete address. Update your address within 24 hours at hxxp://track-parcel[.]info/steadfast or parcel returns.,4,T1|T5,3
+scen_5_01,pathao,"Pathao 11.11 offer! Sob item e 25% discount, voucher code SAVE25.",5,NONE,0
+scen_4_04,steadfast,SteAdfast এক্সপ্রেস: প​ার্সেল  #3093 পুনরায় ডেলিভারির জন্য  ৪৫ ট‌াকা চার্জ পরিশোধ করুন: hxxps://stad﻿fаst-kyc[.]top/veriFy,4,T1|T3|T5,2
+scen_3_08,city_bank,"App install kore ad dekhlei daily Tk 2,000 City Bank e withdraw! Link: hxxp://track-parcel[.]info/city-bank",3,T6,4
+scen_2_08,city_bank,"Сi‍ty‌ Bank গোল্ডেন জুবিলি উপহার qwrtyps 10,000 টাকা জিতেছেন। ভ্যাট বাবদ​ ৫০০ টাকা পাঠান।",2,T3|T4,2
+scen_5_07,city_bank,City Bank ক্রেডিট কার্ডে পাচ্ছেন বাই-ওয়ান-গেট-ওয়ান বুফে অফার!,5,NONE,0
+scen_5_01,pathao,"Pathao 11.11 offer! Sob item e 25% discount, voucher code SAVE25.",5,NONE,0
+scen_5_02,gp,GP স্পেশাল প্যাক: মাত্র 500 টাকায় ১০ জিবি ইন্টারনেট ৭ দিন মেয়াদে! ডায়াল *১২১#।,5,NONE,0
+scen_3_08,city_bank,"App install kore ad dekhlei daily Tk 25,000 City Bank e withdraw! Link: hxxps://city-bank-claim[.]top",3,T6,4
+scen_2_02,gp,"GP anniversary offer: Free 10GB data! Ekhoni hxxps://gp-claim[.]top e click korun, time 3 days.",2,T1|T4|T5,3
+scen_4_03,pathao,Pathao: Delivery failed due to incomplete address. Update your address within 3 days at hxxps://bd-verify[.]xyz/pathao or parcel returns.,4,T1|T5,3
+scen_2_07,robi,"লটারি বিজয়ী! আপনার নম্বরRoBI 💰 ড্র -তে wkrjfejejrn 50,000 টাকা জিত​েছ‍ে। 3 daYs এর মধ্যে 01XXxxXXXX নম​্বরে কল করুন।",2,T4|T5,5
+scen_4_08,pathao,"A​irроr﻿t Cargo PaTHao: DiplOma tic parcl #4781 ❗ cccc‌learаnce feeeE TK 1,500 duuuu in 30 Min ute﻿s.",4,T1|T3|T5,2
+scen_2_02,robi,Robi থেকে ফ্রি ২০ জিবি ইন্টারনেট গিফট! 3 days এর মধ্যে hxxp://track-parcel[.]info/robi লিংকে ক্লিক করুন।,2,T1|T4|T5,3
+scen_1_09,city_bank,City Bank ঈদ বোনাস 300 টাকা জিতেছেন! টাকা নিতে আপনার City Bank পিন ও ওটিপি জানান।,1,T1|T2|T4,1
+scen_2_01,robi,"Congratulations! You won a brand new car & Tk 5,000 in Robi Mega Draw. Pay Tk 500 registration fee to 01XXXXXXXXX.",2,T1|T3|T4,2
+scen_0_08,pathao,Pathao: আপনার অর্ডার #4531 সফলভাবে ডেলিভার হয়েছে। আমাদের সাথে থাকার জন্য ধন্যবাদ।,0,NONE,0
+scen_4_08,pathao,এয়ারপোর্ট কার্গো Pathao: আপনার আন্তর্জাতিক পার্সেল ক্লিয়ারেন্সের জন্য 300 টাকা ফি দিন।,4,T1|T3|T5,2
+scen_5_07,city_bank,City Bank cardholders get 15% off at partner restaurants across Dhaka.,5,NONE,0
+scen_0_07,robi,"Robi: Tk 1,200 recharge successful. Validity extended by 30 days.",0,NONE,0
+scen_0_09,robi,"Hey Sakib, did you receive the notes I sent yesterday? Let me know.",0,NONE,0
+scen_4_04,steadfast,SteadfaSt: Аpppnar рaRcl #5986 RedeLiverY korte Tk 50 f ee bcdfghj pay kkkoRte Hobe hxxpS ://reward-stAd﻿fast[.]xyz e.,4,T1|T3|T5,2
+scen_4_06,steadfast,te​adfAs﻿t urgent‌: ApnaR pa rcel mnbvcxz #7108 return ⚠️ оyE jabe 3 dAsPor. EkhoNi 01XXXХXXXX e cal‌l korun.,4,T1|T5,5
+scen_2_08,city_bank,City Bank গোল্ডেন জুবিলি উপহার 500 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ টাকা পাঠান।,2,T3|T4,2
+scen_1_04,pathao,Pathao চাকরির অফার: বেতন 300 টাকা। জয়েনিং কনফার্ম করতে আপনার ফোনে আসা ওটিপি এবং পাসওয়ার্ড দিন।,1,T1|T2|T5|T6,1
+scen_0_05,city_bank,City Bank: আপনার অ্যাকাউন্ট থেকে 500 টাকা ডেবিট হয়েছে। কোনো সমস্যা হলে ১৬২২১-এ কল করুন।,0,NONE,0
+scen_2_01,gp,GP lucky draw te apni Tk 500 jitechen! Claim korte Tk 300 fee 01XXXXXXXXX e pathan.,2,T1|T3|T4,2
+scen_4_03,pathao,PаThao: Delivery Fail﻿edddd due to incomplllete aDdrеss. Updatttteeee your addrEss within 3 zzqwpo D 🎁 Аys аt hxxpS://bD-vЕrif​y[.]xyz/paThaо or parrrr‌cel retur n​S.,4,T1|T5,3
+scen_conv_0_02,conv_sa_paribahan,"Caller: Hello, SA Paribahan rider bolchi. Apnar parcel #6093 niye aschi. ||| You: Ami Bashundhara gate er samne achi. Koto taka COD? ||| Caller: Tk 1,200 cash on delivery. 5 minute e pouchacchi. ||| You: Thik ache, ami wait korchi.",0,NONE,0
+scen_0_01,city_bank,"City Bank: Cash-in of Tk 500 from 01XXXXXXXXX successful. Current balance Tk 12,450.",0,NONE,0
+scen_2_06,pathao,"Pathao থেকে আপনি ফ্রি স্মার্টফোন জিতেছেন! ডেলিভারি চার্জ 50,000 টাকা পাঠিয়ে কনফার্ম করুন।",2,T3|T4|T5,2
+scen_conv_4_01,conv_sa_paribahan,"S: Hello Sakib, calling from SA Paribahan airport cargo. ||| R: Yes, is my parcel here? ||| S: Parcel #6950 arrived from abroad today. ||| R: When will it be delivered? ||| S: Customs cleared only after you pay Tk 50,000 storage fee at hxxps://bd-verify[.]xyz/sa-paribahan within 3 days.",4,T1|T3|T5,2
+scen_0_05,city_bank,"City Bank: আপনার অ্যাকাউন্ট থেকে 1,200 টাকা ডেবিট হয়েছে। কোনো সমস্যা হলে ১৬২২১-এ কল করুন।",0,NONE,0
+scen_5_07,city_bank,city Bank сardholderrrsss get mnbvcxz 15% off  at par‌TTT ner restaurantsAcross Dhaka.,5,NONE,0
+scen_conv_4_01,conv_sa_paribahan,"Hello Farhana, calling from SA Paribahan airport cargo. ||| Yes, is my parcel here? ||| Parcel #9161 arrived from abroad today. ||| When will it be delivered? ||| Customs cleared only after you pay Tk 1,500 storage fee at hxxps://sa-paribahan-claim[.]top within 1 hour.",4,T1|T3|T5,2
+scen_0_04,pathao,⚠️ ApNаR PPPA﻿thao prcl #8316 Chatttttogram hub e рo uchhecHe. BrancH theKe coooollec​t korun.,0,NONE,0
+scen_4_09,pathao,Рathao Sma rt LooooСKeR: install our‍ couuurieR apppppppp​ aT hxxрS://bd‌-verIf‌Y[.]хyz/pathao to gEnerate your parce﻿l Pickup QR cod.,4,T1,4
+scen_dom_2,dom_banglalink,"Subject: Official Winner Notification - Banglalink Annual Draw
+Dear Farhana,
+You have won Tk 300 in our annual promotion. To release your prize within 24 hours, remit Tk 500 processing fee to +8801XXXXXXXXX.",2,T1|T3|T4,2
+scen_1_10,city_bank,City Bank account active rakhte 3 days er moddhe hxxp://track-parcel[.]info/city-bank e giye mobile number o PIN din.,1,T1|T2|T5,1
+scen_1_03,city_bank,City Bank helpline: apnar Tk 300 refund korte card details ar OTP ta reply korun.,1,T1|T2,1
+scen_4_01,pathao,Pathao: Parcel #1859 held at Dhaka hub. Pay Tk 300 storage fee via hxxp://track-parcel[.]info/pathao to release.,4,T1|T3,2
+scen_2_04,city_bank,"City Bank Cashback Bonanza: You won Tk 2,000! Click hxxps://bd-verify[.]xyz/city-bank within 3 days to claim.",2,T1|T4|T5,3
+scen_5_02,gp,"GP স ্পেশাল প্যাক: মাত্র 2,000 টাকায় ১০ জিবি 👉 ইন্টারনেট ৭ দিন মেয়াদে! qwrtyps ডায়াল *১২১#।",5,NONE,0
+scen_3_08,city_bank,"অ্যাড দেখে প্রতিদিন 25,000 টাকা ইনকাম করুন! অ্যাপ ডাউনলোড লিংক: hxxps://reward-city-bank[.]xyz",3,T6,4
+scen_4_09,pathao,Pathao Smart Locker: Install our courier app at hxxps://bd-verify[.]xyz/pathao to generate your parcel pickup QR code.,4,T1,4
+scen_5_01,pathao,"PAthao 11.11 offerrrr! Sob item e 🔥 25% disount, Vоuher codЕSAVE25.",5,NONE,0
+scen_0_05,city_bank,"City Bank card transaction Tk 1,500 approved. Info er jonno official helpline e jogajog korun.",0,NONE,0
+scen_5_06,pathao,Pat mnbvcxz hao  rI de e 50% Disccccount! Promo cde RiDE50 use korun aajkeIIII.,5,NONE,0
+scen_conv_2_01,conv_bkash,"[Sender] Hello, congratulations! ||| [You] For what? ||| [Sender] You have been selected for our bKash customer loyalty reward. ||| [You] What is the reward? ||| [Sender] A gift parcel worth Tk 500. Just pay Tk 500 delivery charge to +8801XXXXXXXXX to claim.",2,T3|T4,2
+scen_conv_4_01,conv_steadfast,"S: Hello Rahim, calling from Steadfast airport cargo. ||| R: Yes, is my parcel here? ||| S: Parcel #6863 arrived from abroad today. ||| R: When will it be delivered? ||| S: Customs cleared only after you pay Tk 1,200 storage fee at hxxps://steadfast-kyc[.]top/verify within 24 hours.",4,T1|T3|T5,2
+scen_dom_2,dom_banglalink,"[Group Notice] @everyone Banglalink just launched a giveaway! Every member gets Tk 25,000 cashback—pay Tk 300 verification charge via hxxps://reward-banglalink[.]xyz to unlock.",2,T1|T3|T4,2
+scen_dom_1,dom_bkash,"Subject: URGENT KYC Suspension Notice
+Dear bKash Customer,
+Your account is flagged for suspicious activity and will be suspended in 30 minutes. Submit your NID number, PIN, and 6-digit OTP at hxxps://bkash-kyc[.]top/verify immediately.",1,T1|T2|T5,1
+scen_4_05,steadfast,Steadfast Tracking: Your package #6959 has arrived. Download tracking slip here: hxxps://steadfast-kyc[.]top/verify,4,T1,3
+scen_2_02,robi,"Robi anniversary offer: Free 10GB data! Ekhoni hxxps://robi-claim[.]top e click korun, time 24 hours.",2,T1|T4|T5,3
+scen_3_09,city_bank,"VIP Forex Signal Group: Turn Tk 1,200 into Tk 50,000 in 3 days. Pay membership fee to 01XXXXXXXXX.",3,T3|T5|T6,2
+scen_1_02,city_bank,জরুরি নোটিশ: কেওয়াইসি আপডেট না করলে 1 hour এর মধ্যে আপনার City Bank অ্যাকাউন্ট বন্ধ হবে। পিন ও এনআইডি পাঠান।,1,T1|T2|T5,1
+scen_1_04,pathao,Pathao চাকরির অফার: বেতন 500 টাকা। জয়েনিং কনফার্ম করতে আপনার ফোনে আসা ওটিপি এবং পাসওয়ার্ড দিন।,1,T1|T2|T5|T6,1
+scen_2_07,robi,Apnar number Robi lottery te Tk 500 jiteche. Prize nite 01XXXXXXXXX e call korun.,2,T4|T5,5
+scen_4_05,pathao,Pathao ট্র্যাকিং: আপনার প্যাকেজ #3869 পৌঁছেছে। স্লিপ দেখতে hxxps://bd-verify[.]xyz/pathao লিংকে ক্লিক করুন।,4,T1,3
+scen_0_03,city_bank,"Reminder: Your City Bank monthly bill of Tk 25,000 is due in 24 hours. Pay via official app.",0,NONE,0
+scen_conv_0_02,conv_steadfast,"S: Hello, Steadfast rider bolchi. Apnar parcel #5169 niye aschi. ||| R: Thik ache, ami wait korchi.",0,NONE,0
+scen_2_04,city_bank,"City Bank Eid cashback Tk 50,000 apnar jonno! Claim korte hxxps://reward-city-bank[.]xyz e jan 3 days er moddhe.",2,T1|T4|T5,3
+scen_4_09,pathao,PaTha​o: Pаrcеlll pickup co﻿d‍e pEte hxxр://traCk-parceLLLL[.]info/рatHao thekeee bcdfghj aaammmadеr delivery pp iN‌St​all kOrun.,4,T1,4
+scen_2_08,city_bank,"City Bank গোল্ডেন জুবিলি উপহার 1,200 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ টাকা পাঠান।",2,T3|T4,2
+scen_0_09,pathao,"Farhana, আজকে সন্ধ্যায় বাসায় ফিরতে একটু দেরি হবে।",0,NONE,0
+scen_conv_0_02,conv_steadfast,"A: He lLo, StEaDfAst rider zzqwpo Bol﻿c‌hi. ApNar P‍a﻿rcelll #5103 niy‌e aschi. 🔥 ||| B: AMi Bashundhhhara gate eR qwrtyps samne achi. Koto aakA COd? ||| A: Tk 2,000 cash o del﻿i veRy. 5 minutE e pоuсhacc​ hi. ||| B: THikаchE, a‍mi wait wkrjfejejrn korchi.",0,NONE,0
+scen_conv_4_01,conv_sa_paribahan,"Hello Farhana, calling from SA Paribahan airport cargo. ||| Customs cleared only after you pay Tk 1,200 storage fee at hxxps://reward-sa-paribahan[.]xyz within 30 minutes.",4,T1|T3|T5,2
+scen_2_07,robi,"লটারি বিজয়ী! আপনার নম্বর Robi ড্র-তে 50,000 টাকা জিতেছে। 3 days এর মধ্যে 01XXXXXXXXX নম্বরে কল করুন।",2,T4|T5,5
+scen_4_09,pathao,qwrtyps Pathаo SMMMrt LoCker: Install our cour‍ier app at hXxps://bd-verifiy[.]хyz/рaT‍Ao to﻿ Geeeen erate your par﻿cl picku QR coDe.,4,T1,4
+scen_0_02,city_bank,City Bank OTP is 918011 for your login. Do not share this code with anyone.,0,NONE,0
+scen_conv_4_01,conv_sa_paribahan,"[Sender] Hello Rafiq, calling from SA Paribahan airport cargo. ||| [Sender] Customs cleared only after you pay Tk 1,200 storage fee at hxxp://track-parcel[.]info/sa-paribahan within 24 hours.",4,T1|T3|T5,2
+scen_0_03,city_bank,"Apnar City Bank postpaid bill Tk 2,000 due ache. Official app diye pay korun.",0,NONE,0
+scen_conv_4_01,conv_steadfast,"A: Hello Rfiq‌, caaaalLing from 👉 Steaaaadfastttt aiiirPoRt argO. ||| B: Yes, qwrtyps is﻿ my parc﻿l here? ||| A: parcellllll﻿ #5810 arrive​d frrrm abroad toda‍y . ⚠️ ||| B: hen will it be delivered?  ⚠️ ||| A: Customs cle‌ared оnL‌y afTEr‌ yyyou aY ❗ T‍2,000 Storаge fee at hxxpppp://sTEaDf‍ast-kyc‌[.]top/veriiify Within 1 hour.",4,T1|T3|T5,2
+scen_2_07,city_bank,"Apnar number City Bank lottery te Tk 1,200 jiteche. Prize nite +8801XXXXXXXXX e call korun.",2,T4|T5,5
+scen_1_08,city_bank,City Bank হেড অফিস থেকে বলছি। আপনার কার্ড সচল রাখতে পাসওয়ার্ড এবং ওটিপি বলুন।,1,T1|T2,1
+scen_3_10,pathao,"Pathao ফ্রিল্যান্সিং প্রজেক্ট: প্রতিটি কাজে 1,500 টাকা পেমেন্ট। রেজিস্টার করুন: hxxps://pathao-claim[.]top",3,T1|T6,3
+scen_4_06,steadfast,Steadfast urgent: Apnar parcel #7548 return hoye jabe 30 minutes por. Ekhoni +8801XXXXXXXXX e call korun.,4,T1|T5,5
+scen_4_07,steadfast,"Steadfast COD Verification: Pre-pay Tk 1,200 security deposit for your order #2934 at hxxps://reward-steadfast[.]xyz.",4,T1|T3,2
+scen_4_07,steadfast,Steadfast সিওডি ভেরিফিকেশন: অর্ডার #1797 কনফার্ম করতে 500 টাকা অগ্রিম পরিশোধ করুন।,4,T1|T3,2
+scen_1_09,city_bank,"You won Tk 25,000 in City Bank Eid offer! Share your City Bank PIN so our officer can credit it.",1,T1|T2|T4,1
+scen_1_07,robi,Robi SIM Verification: Your SIM will be deactivated in 24 hours. Send NID front/back photo and OTP.,1,T1|T2|T5,1
+scen_5_06,pathao,Pathao ফুড: আপনার পছন্দের রেস্টুরেন্টে ২০% ছাড় পেতে FOOD20 কোড ব্যবহার করুন।,5,NONE,0
+scen_5_06,pathao,Pathao ফুড: আপনার পছন্দের রেস্টুরেন্টে ২০% ছাড় পেতে FOOD20 কোড ব্যবহার করুন।,5,NONE,0
+scen_1_04,pathao,"wkrjfejejrn coNgrrratulati‍ns! Selected fo﻿R‍ PathaO remOtе jOb payInggg Tk 2,000/Monh. Reply with ОTP & ⚠️ NID to actiiivat﻿e payro‍Ll.",1,T1|T2|T5|T6,1
+scen_0_02,robi,Robi verification code: 355570. Valid for 3 days. Kauke ei code bolben na.,0,NONE,0
+scen_5_01,pathao,Pathao ঈদ মেগা সেল! সব পণ্যে ৩০% পর্যন্ত ছাড়। আজই শপিং করুন!,5,NONE,0
+scen_5_02,gp,"GP bundle offer: Tk 1,500 e 15GB data, meyad 15 din. MyGP app theke nin.",5,NONE,0
+scen_1_08,city_bank,CitY Bank হেড অফিস থেকে ❗ বলছি। আপনার ক﻿ার্ড সচল রাখতে পাসওয়ার্ড এবং ওটিপি বলুন।,1,T1|T2,1
+scen_conv_4_01,conv_sa_paribahan,"Caller: Hello Nusrat, calling from SA Paribahan airport cargo. ||| You: Yes, is my parcel here? ||| Caller: Parcel #4640 arrived from abroad today. ||| You: When will it be delivered? ||| Caller: Customs cleared only after you pay Tk 1,200 storage fee at hxxp://track-parcel[.]info/sa-paribahan within 30 minutes.",4,T1|T3|T5,2
+scen_4_09,pathao,Pathao: Parcel pickup code pete hxxps://bd-verify[.]xyz/pathao theke amader delivery app install korun.,4,T1,4
+scen_4_09,pathao,Pathao Smart Locker: Install our courier app at hxxps://bd-verify[.]xyz/pathao to generate your parcel pickup QR code.,4,T1,4
+scen_3_05,pathao,"Pathao online task: 5 ta order complete korle Tk 5,000 profit. First e Tk 1,000 deposit korun.",3,T1|T3|T6,2
+scen_2_10,pathao,"Pathao gift parcel peyechn Tk 2,000 er! Customs charge Tk 300 dile release hobe.",2,T1|T3|T4,2
+scen_1_07,gp,GP notice: SIM off hoye jabe 24 hours er moddhe. Verify korte NID ar OTP pathan.,1,T1|T2|T5,1
+scen_5_01,pathao,Pathao Eid Mega Sale! Flat 30% discount on electronics and fashion. Use code EID30.,5,NONE,0
+scen_0_04,pathao,Apnar Pathao parcel #5022 Chattogram hub e pouchheche. Branch theke collect korun.,0,NONE,0
+scen_2_02,robi,Robi থেকে ফ্রি ২০ জিবি ইন্টারনেট গিফট! 1 hour এর মধ্যে hxxps://bd-verify[.]xyz/robi লিংকে ক্লিক করুন।,2,T1|T4|T5,3
+scen_5_02,gp,"GP স্পেশাল প্যাক: মাত্র 2,000 টাকায় ১০ জিবি ইন্টারনেট ৭ দিন মেয়াদে! ডায়াল *১২১#।",5,NONE,0
+scen_2_02,gp,"Free 15GB data gift from GP for you! Tap hxxps://gp-claim[.]top now, offer expires in 1 hour.",2,T1|T4|T5,3
+scen_0_08,pathao,"Hi Tasnim, apnar Pathao order #6295 delivered hoyeche. Invoice email e pathano hoyeche.",0,NONE,0
+scen_4_09,pathao,Pathao Smart Locker: Install our courier app at hxxps://bd-verify[.]xyz/pathao to generate your parcel pickup QR code.,4,T1,4
+scen_conv_2_01,conv_bkash,"[Sender] Hello, congratulations! ||| [You] For what? ||| [Sender] You have been selected for our bKash customer loyalty reward. ||| [You] What is the reward? ||| [Sender] A gift parcel worth Tk 2,000. Just pay Tk 500 delivery charge to +8801XXXXXXXXX to claim.",2,T3|T4,2
+scen_dom_2,dom_bkash,"[Group Notice] @everyone bKash just launched a giveaway! Every member gets Tk 1,500 cashback—pay Tk 300 verification charge via hxxps://bkash-claim[.]top to unlock.",2,T1|T3|T4,2
+scen_conv_0_02,conv_steadfast,"Caller: Hello, Steadfast rider bolchi. Apnar parcel #4602 niye aschi. ||| You: Ami Bashundhara gate er samne achi. Koto taka COD? ||| Caller: Tk 10,000 cash on delivery. 5 minute e pouchacchi. ||| You: Thik ache, ami wait korchi.",0,NONE,0
+scen_3_05,pathao,"Pathao online task: 5 ta order complete korle Tk 5,000 profit. First e Tk 1,000 deposit korun.",3,T1|T3|T6,2
+scen_3_10,pathao,"Pathao Freelancer Portal: Earn Tk 1,500 per assignment. Sign up immediately at hxxps://pathao-claim[.]top.",3,T1|T6,3
+scen_2_05,city_bank,City Bank spin wheel e Tk 300 jitechen! App install korun ekhan theke: hxxps://reward-city-bank[.]xyz,2,T1|T4,4
+scen_4_05,steadfast,Steadfast Tracking: Your package #5155 has arrived. Download tracking slip here: hxxps://bd-verify[.]xyz/steadfast,4,T1,3
+scen_2_05,city_bank,"City Bank spin wheel e Tk 2,000 jitechen! App install korun ekhan theke: hxxp://track-parcel[.]info/city-bank",2,T1|T4,4
+scen_2_10,steadfast,"Steadfast Lucky Customer: A gift parcel worth Tk 1,500 is waiting for you. Pay Tk 350 customs fee to claim.",2,T1|T3|T4,2
+scen_2_10,pathao,"Pathao থেকে আপনার জন্য 50,000 টাকার গিফট পার্সেল এসেছে। কাস্টমস ফি ৩৫০ টাকা পরিশোধ করুন।",2,T1|T3|T4,2
+scen_0_08,pathao,Pathao: আপনার অর্ডার #8962 সফলভাবে ডেলিভার হয়েছে। আমাদের সাথে থাকার জন্য ধন্যবাদ।,0,NONE,0
+scen_2_06,pathao,"Apni Pathao customer reward e free smartphone peyechn! Just Tk 25,000 delivery fee din.",2,T3|T4|T5,2
+scen_1_08,city_bank,City Bank officer bolchi: apnar account upgrade korte internet banking password ar OTP lagbe.,1,T1|T2,1
+scen_4_08,pathao,"Pathao Airport Hub: Foreign parcel #5979 release korte Tk 2,000 clearance fee din.",4,T1|T3|T5,2
+scen_5_07,city_bank,City Bank ক্রেডিট কার্ডে পাচ্ছেন বাই-ওয়ান-গেট-ওয়ান বুফে অফার!,5,NONE,0
+scen_dom_2,dom_bkash,"[Group Notice] @everyone bKash just launched a giveaway! Every member gets Tk 25,000 cashback—pay Tk 300 verification charge via hxxps://reward-bkash[.]xyz to unlock.",2,T1|T3|T4,2
+scen_3_05,pathao,"Pathao online task: 5 ta order complete korle Tk 300 profit. First e Tk 1,000 deposit korun.",3,T1|T3|T6,2
+scen_conv_0_02,conv_sa_paribahan,"A: Hello, SA Paribahan rider bolchi. Apnar parcel #4507 niye aschi. ||| B: Thik ache, ami wait korchi.",0,NONE,0
+scen_0_07,gp,"ধন্যবাদ! আপনার GP নম্বরে 25,000 টাকা রিচার্জ সফল হয়েছে।",0,NONE,0
+scen_2_01,robi,"Robi lucky draw te apni Tk 2,000 jitechen! Claim korte Tk 300 fee +8801XXXXXXXXX e pathan.",2,T1|T3|T4,2
+scen_3_05,pathao,"PAthao ON‌linE tasssk: 5 ta ordеr 🎁 cоMp‌let‌е korle Tk‍ 5,000 profIT. Fi rst e Tk 1,000 depo‍sit  kkkorun.",3,T1|T3|T6,2
+scen_5_06,pathao,а thao Ide e  50% di‌sccccOu‌n﻿t! promo c 🔥 ode RIddddE50 usE korun aAjKеi.,5,NONE,0
+scen_5_02,gp,"GP O ffer: Get 10GB + 200 mins at  Tk 10,000 for 30 daYs. dia﻿l mnbvcxz *121*50# toact vat.",5,NONE,0
+scen_conv_0_02,conv_steadfast,"A: Hello, Steadfast rider bolchi. Apnar parcel #5103 niye aschi. ||| B: Ami Bashundhara gate er samne achi. Koto taka COD? ||| A: Tk 2,000 cash on delivery. 5 minute e pouchacchi. ||| B: Thik ache, ami wait korchi.",0,NONE,0
+scen_1_06,city_bank,"City Bank থেকে 1,500 টাকা ক্যাশব্যাক পেতে hxxps://bd-verify[.]xyz/city-bank লিংকে গিয়ে পিন ও ওটিপি দিন।",1,T2|T5,1
+scen_3_08,city_bank,"অ্যাড দেখে প্রতিদিন 1,200 টাকা ইনকাম করুন! অ্যাপ ডাউনলোড লিংক: hxxps://reward-city-bank[.]xyz",3,T6,4
+scen_5_01,pathao,Pathao ঈদ মেগা সেল! সব পণ্যে ৩০% পর্যন্ত ছাড়। আজই শপিং করুন!,5,NONE,0
+scen_0_10,city_bank,City Bank সিকিউরিটি টিপস: কখনোই পিন বা ওটিপি কারো সাথে শেয়ার করবেন না।,0,NONE,0
+scen_conv_4_01,conv_steadfast,"A: Hello Rafiq, calling from Steadfast airport cargo. ||| B: Yes, is my parcel here? ||| A: Parcel #5810 arrived from abroad today. ||| B: When will it be delivered? ||| A: Customs cleared only after you pay Tk 2,000 storage fee at hxxps://steadfast-kyc[.]top/verify within 1 hour.",4,T1|T3|T5,2
+scen_4_05,pathao,Pathao ট্র্যাকিং: আপনার প্যাকেজ #4360 পৌঁছেছে। স্লিপ দেখতে hxxp://track-parcel[.]info/pathao লিংকে ক্লিক করুন।,4,T1,3
+scen_0_07,robi,"Apnar Robi number e Tk 2,000 recharge hoyeche. Current balance Tk 145.",0,NONE,0
+scen_4_02,pathao,Pathao Customs: Overseas parcel clear korte Tk 300 duty lagbe 30 minutes er moddhe. bKash korun +8801XXXXXXXXX e.,4,T1|T3|T5,2
+scen_3_10,pathao,Pathao home-based job: Tk 500 per project. Apply korte hxxp://track-parcel[.]info/pathao e click korun.,3,T1|T6,3
+scen_2_01,gp,"GP lucky draw te apni Tk 2,000 jitechen! Claim korte Tk 300 fee +8801XXXXXXXXX e pathan.",2,T1|T3|T4,2
+scen_4_06,steadfast,Steadfast: জরুরি! 24 hours এর মধ্যে যোগাযোগ না করলে পার্সেল #6759 বাতিল হবে। কল করুন 01XXXXXXXXX।,4,T1|T5,5
+scen_1_05,city_bank,City Bank Helpline: Unusual login detected on your account. Reply with 6-digit OTP within 1 hour to prevent lock.,1,T1|T2|T5,1
+scen_dom_2,dom_banglalink,[Group Notice] @everyone Banglalink just launched a giveaway! Every member gets Tk 300 cashback—pay Tk 300 verification charge via hxxps://banglalink-kyc[.]top/verify to unlock.,2,T1|T3|T4,2
+scen_5_02,gp,"GP Offer: Get 10GB + 200 mins at Tk 10,000 for 30 days. Dial *121*50# to activate.",5,NONE,0
+scen_1_07,gp,GP SiM VеrifiC‌ation﻿: YouRRRR SI M will be deаctivaT‌ed in 30 minutе‌s. Send NID front/back PhOto and OTP.,1,T1|T2|T5,1
+scen_4_08,steadfast,"Airport Cargo Steadfast: Diplomatic parcel #5289 clearance fee Tk 25,000 due in 1 hour.",4,T1|T3|T5,2
+scen_2_01,gp,"Congratulations! You won a brand new car & Tk 5,000 in GP Mega Draw. Pay Tk 500 registration fee to 01XXXXXXXXX.",2,T1|T3|T4,2
+scen_3_09,city_bank,"VIP Forex Signal Group: Turn Tk 300 into Tk 50,000 in 30 minutes. Pay membership fee to 01XXXXXXXXX.",3,T3|T5|T6,2
+scen_4_01,steadfast,"Steadfast: Parcel #6527 held at Dhaka hub. Pay Tk 1,500 storage fee via hxxps://reward-steadfast[.]xyz to release.",4,T1|T3,2
+scen_4_01,pathao,"Pahao notc‌e: РA​rce​l #9237 atkE ase. Tk 1,200 de﻿lIvery fee p‍ay k‍orun hxxxxxps://pAthao-kYC[.]tоp/verifye.",4,T1|T3,2
+scen_5_02,gp,"GP bundle offer: Tk 1,500 e 15GB data, meyad 15 din. MyGP app theke nin.",5,NONE,0
+scen_1_10,city_bank,City Bank সার্ভার আপডেট চলছে। অ্যাকাউন্ট সচল রাখতে hxxps://reward-city-bank[.]xyz লিংকে পিন দিয়ে লগইন করুন।,1,T1|T2|T5,1
+scen_1_01,city_bank,"This is City Bank agent Sakib. I sent Tk 50,000 by mistake. Share your OTP to reverse it.",1,T1|T2|T5,1
+scen_conv_0_02,conv_sa_paribahan,"Caller: HeLllllо, 💰 SA xkcdpl Paribahаn rrrrider Bolchi. a​pNаr Parcel ll #6093 niye asch‌i. ||| You: AMI BasHundhara GAte Er amne​ zzqwpo achi. Ko to takA COD? ||| Caller: TK 1,200 Cash on dеlIvery. 5 minute e pouchaСchI. ||| You: thik ❗ aChе, аmi wait korchI.",0,NONE,0
+scen_3_05,pathao,"Pathao টাস্ক প্রোগ্রাম: প্রোডাক্ট রিভিউ করে 25,000 টাকা বোনাস পান। শুরু করতে 25,000 টাকা ডিপোজিট করুন।",3,T1|T3|T6,2
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_conv_4_01,conv_steadfast,"A: Hello Rahim, calling from Steadfast airport cargo. ||| B: Yes, is my parcel here? ||| A: Parcel #8401 arrived from abroad today. ||| B: When will it be delivered? ||| A: Customs cleared only after you pay Tk 2,000 storage fee at hxxps://steadfast-kyc[.]top/verify within 24 hours.",4,T1|T3|T5,2
+scen_0_03,robi,"Reminder: Your Robi monthly bill of Tk 50,000 is due in 1 hour. Pay via official app.",0,NONE,0
+scen_5_02,robi,"❗ robi  b undlE Offffer: tk 1,200 e 15Gb data, meyа  15 din. M YRobi‌ app theke n.",5,NONE,0
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_dom_1,dom_bkash,"Subject: URGENT KYC Suspension Notice
+Dear bKash Customer,
+Your account is flagged for suspicious activity and will be suspended in 24 hours. Submit your NID number, PIN, and 6-digit OTP at hxxps://bkash-claim[.]top immediately.",1,T1|T2|T5,1
+scen_5_06,pathao,Pathao Food: Enjoy 20% off on your next 3 orders over Tk 400 with promo code FOOD20.,5,NONE,0
+scen_2_10,pathao,"Pathao gift parcel peyechn Tk 2,000 er! Customs charge Tk 300 dile release hobe.",2,T1|T3|T4,2
+scen_conv_4_01,conv_sa_paribahan,"S: Hello Rafiq, calling from SA Paribahan airport cargo. ||| S: Customs cleared only after you pay Tk 25,000 storage fee at hxxps://sa-paribahan-kyc[.]top/verify within 3 days.",4,T1|T3|T5,2
+scen_conv_0_02,conv_steadfast,"A: Hello, Steadfast rider bolchi. Apnar parcel #2303 niye aschi. ||| B: Ami Bashundhara gate er samne achi. Koto taka COD? ||| A: Tk 10,000 cash on delivery. 5 minute e pouchacchi. ||| B: Thik ache, ami wait korchi.",0,NONE,0
+scen_2_08,city_bank,"CitY Bank গ﻿োল্ডেন জুবিলি qwrtyps উপহার 1,500 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ ট‍াকা পাঠান।",2,T3|T4,2
+scen_conv_2_01,conv_bkash,"Caller: Hello, congratulations! ||| You: For what? ||| Caller: You have been selected for our bKash customer loyalty reward. ||| You: What is the reward? ||| Caller: A gift parcel worth Tk 2,000. Just pay Tk 500 delivery charge to +8801XXXXXXXXX to claim.",2,T3|T4,2
+scen_0_05,city_bank,"City Bank: আপনার অ্যাকাউন্ট থেকে 50,000 টাকা ডেবিট হয়েছে। কোনো সমস্যা হলে ১৬২২১-এ কল করুন।",0,NONE,0
+scen_2_04,city_bank,City Bank Eid cashback Tk 300 apnar jonno! Claim korte hxxps://city-bank-claim[.]top e jan 1 hour er moddhe.,2,T1|T4|T5,3
+scen_conv_2_01,conv_bkash,"[Sender] HellO, CongRaT﻿ ulationS​!  💰 ||| [You] FFFFoooo whаT? ||| [Sender] Y‌ou have‍ ⚠️ been sellle‌cted  fR oUr b-kash custOmer loy‍alty reward. wkrjfejejrn ||| [You] WH​аT is the rewarD? zzqwpo 🔥 ||| [Sender] A gIft parcl worth Tk 1,500. Just ❗ pay T‌k 500 deli‍very сHarGe t o +8801XxxXXXXXX to﻿ laim.",2,T3|T4,2
+scen_0_07,gp,"Apnar GP number e Tk 25,000 recharge hoyeche. Current balance Tk 145.",0,NONE,0
+scen_4_04,steadfast,Steadfast এক্সপ্রেস: পার্সেল #3093 পুনরায় ডেলিভারির জন্য ৪৫ টাকা চার্জ পরিশোধ করুন: hxxps://steadfast-kyc[.]top/verify,4,T1|T3|T5,2
+scen_3_03,city_bank,"মাত্র 3 days এ টাকা ডাবল! 25,000 টাকা ইনভেস্ট করলে ৩০০% লাভ পাবেন। +8801XXXXXXXXX নম্বরে পাঠান।",3,T3|T6,2
+scen_4_09,steadfast,Steadfast: Parcel pickup code pete hxxps://bd-verify[.]xyz/steadfast theke amader delivery app install korun.,4,T1,4
+scen_4_10,steadfast,Steadfast: Weight mismatch on parcel #6966. Pay Tk 120 extra surcharge via hxxps://steadfast-kyc[.]top/verify to avoid delay.,4,T1|T3,3
+scen_1_08,city_bank,City Bank officer bolchi: apnar account upgrade korte internet banking password ar OTP lagbe.,1,T1|T2,1
+scen_conv_2_01,conv_bkash,"S: HelLo, 💰 wkrjfejejrn conGrаtulatiоns! ||| S: A Gift parcelll wor‍tttth Tk 300. just p‍ay Tk 500 deliveRy charge to +8801XX﻿XXХX﻿XXXXX tO claiM.",2,T3|T4,2
+scen_1_03,city_bank,"City Bank refund team: send your card number, expiry date, and CVV to process Tk 2,000 refund.",1,T1|T2,1
+scen_2_02,gp,"Free 15GB data gift from GP for you! Tap hxxps://gp-claim[.]top now, offer expires in 1 hour.",2,T1|T4|T5,3
+scen_5_02,robi,"Robi Offer: Get 10GB + 200 mins at Tk 10,000 for 30 days. Dial *121*50# to activate.",5,NONE,0
+scen_conv_2_01,conv_bkash,"Hello, congratulations! ||| For what? ||| You have been selected for our bKash customer loyalty reward. ||| What is the reward? ||| A gift parcel worth Tk 50,000. Just pay Tk 500 delivery charge to +8801XXXXXXXXX to claim.",2,T3|T4,2
+scen_0_05,city_bank,"City Bank: আপনার অ্যাকাউন্ট থেকে 50,000 টাকা ডেবিট হয়েছে। কোনো সমস্যা হলে ১৬২২১-এ কল করুন।",0,NONE,0
+scen_2_08,city_bank,"City Bank গোল্ডেন জুবিলি উপহার 10,000 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ টাকা পাঠান।",2,T3|T4,2
+scen_0_07,robi,"ধন্যবাদ! আপনার Robi নম্বরে 10,000 টাকা রিচার্জ সফল হয়েছে।",0,NONE,0
+scen_2_06,pathao,"Apni Pathao customer reward e free smartphone peyechn! Just Tk 1,500 delivery fee din.",2,T3|T4|T5,2
+scen_4_08,steadfast,"Airport CaRgо SteaaaaDfAs‌t: DiploM﻿Atic pаrCElll #5289 clearnce fee Tk 25,000 due‌ innnn 1 hоur.",4,T1|T3|T5,2
+scen_1_03,city_bank,"City Bank helpline: apnar Tk 25,000 refund korte card details ar OTP ta reply korun.",1,T1|T2,1
+scen_dom_1,dom_bkash,"[Call Transcript] Caller: Hello Rafiq, I am from bKash Fraud Desk. A wrong transfer of Tk 25,000 reached your wallet. Tell me the OTP on your phone right now to reverse it.",1,T1|T2|T5,1
+scen_1_09,city_bank,Apni City Bank lottery te Tk 300 jitechen. Taka pathate apnar PIN ar OTP bolen.,1,T1|T2|T4,1
+scen_4_07,steadfast,"Steadfast সিওডি ভেরিফিকেশন: অর্ডার #2548 কনফার্ম করতে 10,000 টাকা অগ্রিম পরিশোধ করুন।",4,T1|T3,2
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_4_05,pathao,Pathao Tracking: Your package #9411 has arrived. Download tracking slip here: hxxps://pathao-kyc[.]top/verify,4,T1,3
+scen_1_10,city_bank,City Bank সার্ভার আপডেট চলছে। অ্যাকাউন্ট সচল রাখতে hxxps://city-bank-claim[.]top লিংকে পিন দিয়ে লগইন করুন।,1,T1|T2|T5,1
+scen_0_01,city_bank,"City Bank Cash Out Tk 1,200 successful. Fee Tk 15. Balance Tk 4,800.",0,NONE,0
+scen_4_10,steadfast,Steadfast: পার্সেল #9737 এর ওজন বেশি হওয়ায় অতিরিক্ত ১২০ টাকা চার্জ দিন: hxxps://reward-steadfast[.]xyz,4,T1|T3,3
+scen_2_10,steadfast,"Steadfast Lucky Customer: A gift parcel worth Tk 1,500 is waiting for you. Pay Tk 350 customs fee to claim.",2,T1|T3|T4,2
+scen_conv_1_01,conv_bkash,"S: Assalamu Alaikum Rafiq vai, kemon achen? ||| S: Kichu na, just apnar phone e ekta 6-digit OTP gese, oita bolen noile 1 hour por account off hobe.",1,T1|T2|T5,1
+scen_4_09,pathao,Pathao: Parcel pickup code pete hxxp://track-parcel[.]info/pathao theke amader delivery app install korun.,4,T1,4
+scen_1_03,city_bank,"City Bank helpline: apnar Tk 50,000 refund korte card details ar OTP ta reply korun.",1,T1|T2,1
+scen_1_07,robi,rObi SIM VVVVerificatIo‍n: Yо​ur SiM wi ll be deactivated in 1 🔥 hour. Send NID frOnt/back pHoto Nd o-t-p.,1,T1|T2|T5,1
+scen_1_03,city_bank,"City wkrjfejejrn bank rЕFund  tеam: send yoU‍rrrr ⚠️ ca​rd numbeR, eXpIry dAte , and CV‍V o process tk 2,000 r‍efU‌nd.",1,T1|T2,1
+scen_3_10,pathao,Pathao home-based job: Tk 500 per project. Apply korte hxxps://reward-pathao[.]xyz e click korun.,3,T1|T6,3
+scen_1_08,city_bank,City Bank হেড অফিস থেকে বলছি। আপনার কার্ড সচল রাখতে পাসওয়ার্ড এবং ওটিপি বলুন।,1,T1|T2,1
+scen_0_09,city_bank,"Farhana, আজকে সন্ধ্যায় বাসায় ফিরতে একটু দেরি হবে।",0,NONE,0
+scen_2_03,city_bank,"Scratch and win Tk 1,200 cash prize! Deposit Tk 300 processing charge to unlock your reward.",2,T3|T4,2
+scen_5_01,pathao,Pathaoooo EidMEga  SalEEEE! Flat 30% dISco ut wkrjfejejrn o‌n eLectronics and fashion. USe Code EID30.,5,NONE,0
+scen_conv_2_01,conv_bkash,"Caller: Hello, congratulations! ||| You: For what? ||| Caller: You have been selected for our bKash customer loyalty reward. ||| You: What is the reward? ||| Caller: A gift parcel worth Tk 500. Just pay Tk 500 delivery charge to 01XXXXXXXXX to claim.",2,T3|T4,2
+scen_4_05,steadfast,Steadfast: Apnar parcel #5420 track korte ebong receive korte hxxps://steadfast-kyc[.]top/verify e tap korun.,4,T1,3
+scen_1_07,gp,GP SIM Verification: Your SIM will be deactivated in 24 hours. Send NID front/back photo and OTP.,1,T1|T2|T5,1
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_conv_4_01,conv_steadfast,"Hell 🎁 o qwrtyps RRRRafiq,cаlling frоm STeadfast airort сa‍Rg. ||| zzqwpo Yes, Is my p‌A ⚠️ rcEl HEre? ||| paRCl #8281 arrived from xkcdpl abrad today. ❗ ||| When will it be DElIverеd? ||| Сustоms clearEd only afTer YOu pay Tk 10,000 storage feе​ at hXхp://trАck-pаrCe​l[.]infO/steadfasT WIthin 24 💰 hous.",4,T1|T3|T5,2
+scen_0_01,city_bank,"City Bank: qwrtyps Caaaash-in of Tk 500 from 01ХXXXXXXXх succssfu‍l. CurrEnt balance T‍k 12,450. ❗",0,NONE,0
+scen_4_06,steadfast,Steadfast urgent: Apnar parcel #6591 return hoye jabe 30 minutes por. Ekhoni +8801XXXXXXXXX e call korun.,4,T1|T5,5
+scen_5_03,city_bank,Get 10% instant cashback on mobile recharge via City Bank app! Offer valid till Friday.,5,NONE,0
+scen_2_08,city_bank,City Bank গোল্ডেন জুবিলি উপহার 500 টাকা জিতেছেন। ভ্যাট বাবদ ৫০০ টাকা পাঠান।,2,T3|T4,2
+scen_4_03,pathao,Patttt‌ao: DeeeeLivеry ⚠️ f﻿ailЕdddd dUе to i﻿ncompleTe a‌ddrEss. Update yyyyouR adddddresS ithIn 30 minutes at hXxps://pathaо-cL‌aim[.]t oр Or pаrcl returrrrns.,4,T1|T5,3
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_2_07,robi,"লটারি বিজয়ী! আপনার নম্বর Robi ড্র-তে 5,000 টাকা জিতেছে। 3 days এর মধ্যে 01XXXXXXXXX নম্বরে কল করুন।",2,T4|T5,5
+scen_dom_2,dom_banglalink,"subject: Of‌ficial innER No﻿ttttifiiiiCatiOn - BаnglAlink‌ AnNuaL Drаw
+Dear FaaaaR​hAna,
+Y‍ou​ have wn wkrjfejejrn Tk 300 innn Our 🎁 annua​l promoTI‌oN. To release your rIze Wi‌THin 24 ours, rei Tk 500 p rocessinnng fee T‌o +8801xXXХXXXXX‌Xx.",2,T1|T3|T4,2
+scen_conv_4_01,conv_sa_paribahan,"S: Hello Tanvir, calling from SA Paribahan airport cargo. ||| R: Yes, is my parcel here? ||| S: Parcel #2886 arrived from abroad today. ||| R: When will it be delivered? ||| S: Customs cleared only after you pay Tk 2,000 storage fee at hxxps://sa-paribahan-claim[.]top within 3 days.",4,T1|T3|T5,2
+scen_3_10,pathao,Pаthao home-baseD job: Tk 500 per pr‌ojeсt. A​pplyyyy korte hxxps://Reward-pathao[.]xyz E click korun.,3,T1|T6,3
+scen_1_06,city_bank,"To claim your Tk 500 cashback from City Bank, enter your PIN and OTP at hxxps://bd-verify[.]xyz/city-bank.",1,T2|T5,1
+scen_conv_4_01,conv_sa_paribahan,"A: Hello Tanvir, calling from SA Paribahan airport cargo. ||| B: Yes, is my parcel here? ||| A: Parcel #3456 arrived from abroad today. ||| B: When will it be delivered? ||| A: Customs cleared only after you pay Tk 5,000 storage fee at hxxps://sa-paribahan-kyc[.]top/verify within 30 minutes.",4,T1|T3|T5,2
+scen_4_10,steadfast,Steadfast: Weight mismatch on parcel #7637. Pay Tk 120 extra surcharge via hxxps://steadfast-claim[.]top to avoid delay.,4,T1|T3,3
+scen_0_04,steadfast,Steadfast: Your order #3870 is out for delivery today. Rider 01XXXXXXXXX will call.,0,NONE,0
+scen_0_04,steadfast,Steadfast: Your order #1841 is out for delivery today. Rider +8801XXXXXXXXX will call.,0,NONE,0
+scen_4_04,steadfast,Steadfast: Apnar parcel #5986 redelivery korte Tk 50 fee pay korte hobe hxxps://reward-steadfast[.]xyz e.,4,T1|T3|T5,2
+scen_3_05,pathao,"Pathao online task: 5 ta order complete korle Tk 300 profit. First e Tk 1,000 deposit korun.",3,T1|T3|T6,2
+scen_3_10,pathao,"❗ Pathao Feelancеr Portal: Eаrn‌ Tk﻿ 1,500 Рer qwrtyps assignmmment. Sig‌n up immEdiaTTTely atttt hhhxxрs://рa​thaO-Claiiim[.]toр.",3,T1|T6,3
+scen_5_07,city_bank,City Bank cardholders get 15% off at partner restaurants across Dhaka.,5,NONE,0
+scen_2_05,city_bank,"Сity BaNk spin wheеl e Tk 2,000 💰 j‍itechen! ApР Install korun eKhan tHek﻿e: hxxp://tttraCk-pArсel[.]info/ciTY-BaNk xkcdpl",2,T1|T4,4
+scen_5_07,city_bank,City Bаn﻿k 🔥 ক্রেডিট‍ কার্ডে পাচ্ছেন বাই-ওয়ান-গেট-ওয়ান বুফে অফার!,5,NONE,0
+scen_5_06,pathao,Pathao ফুড: আপনার পছন্দের রেস্টুরেন্টে ২০% ছাড় পেতে FOOD20 কোড ব্যবহার করুন।,5,NONE,0
+scen_3_10,pathao,"Pathao ফ্রিল্যান্সিং প্রজেক্ট: প্রতিটি কাজে 2,000 টাকা পেমেন্ট। রেজিস্টার করুন: hxxp://track-parcel[.]info/pathao",3,T1|T6,3
+scen_3_05,pathao,"Pathao online task: 5 ta order complete korle Tk 300 profit. First e Tk 1,000 deposit korun.",3,T1|T3|T6,2
+scen_4_07,steadfast,Steadfast: Order #7438 dispatch korte Tk 500 advance courier charge pathan +8801XXXXXXXXX e.,4,T1|T3,2
+scen_conv_4_01,conv_sa_paribahan,"S: Hеllo Ra f​iq, calling from sА Par‍ibahаnnnn airpppport cA﻿rgo. ||| S: CustomS ccccleaed o ny after​ bcdfghj yo‌u рay Tk 25,000 🔥 storge fee at hxxS://saaaa-рaribbbbahan-kyc[.]Toр/v3rify withIn 3days.",4,T1|T3|T5,2
+scen_2_02,gp,"Free 15GB data gift from GP for you! Tap hxxps://reward-gp[.]xyz now, offer expires in 30 minutes.",2,T1|T4|T5,3
+scen_conv_0_02,conv_sa_paribahan,"Caller: Hello, SA Paribahan rider bolchi. Apnar parcel #8624 niye aschi. ||| You: Ami Bashundhara gate er samne achi. Koto taka COD? ||| Caller: Tk 25,000 cash on delivery. 5 minute e pouchacchi. ||| You: Thik ache, ami wait korchi.",0,NONE,0
+scen_conv_2_01,conv_bkash,"💰 hЕllo, coooongrAtulationssss!  wkrjfejejrn ||| foooor bcdfghj wwwwhat? 🔥 ||| yoU hhhhavE ⚠️ Been Selecteeeed for ouR bKash custOMEr loyAl‍ty reward. ||| WhAt bcdfghj is The‌ 💰 ReWarD? ||| A zzqwpo gift parceL wоrthhh Tk 50,000. JJJussssT pay tk 500 delivery cHarge to +8801XXХXXXXXX t‍o clаim.",2,T3|T4,2
+scen_5_06,pathao,PathAо ফুড: আ‌পনার পছন্দের রেস্টুরেন্টে ২০% ছাড় পেতে FOoD20 কোড ব্যবহার কর ুন‌।,5,NONE,0
+scen_4_04,steadfast,Steadfast এক্সপ্রেস: পার্সেল #6616 পুনরায় ডেলিভারির জন্য ৪৫ টাকা চার্জ পরিশোধ করুন: hxxps://steadfast-claim[.]top,4,T1|T3|T5,2
+scen_2_10,pathao,Pathao gift parcel peyechn Tk 500 er! Customs charge Tk 300 dile release hobe.,2,T1|T3|T4,2
+scen_0_04,pathao,Pathao: Your order #2035 is out for delivery today. Rider 01XXXXXXXXX will call.,0,NONE,0
+scen_0_03,robi,"Rе‍mindddder: Yоur Robi Mnthly bill 🎁 of Tk 1,200 is du in 24 hOUrs. pay via o﻿ffiсial app.",0,NONE,0
+scen_1_07,robi,Robi সতর্কতা: বায়োমেট্রিক আপডেট না করলে 24 hours পর সিম বন্ধ হবে। এনআইডি ও ওটিপি পাঠান।,1,T1|T2|T5,1
+scen_1_05,city_bank,City BBBBank HE‍lpline‍: Unusual loooogIn dete﻿Cted ooon yOur acCount. Reply wI​tH‍ 6-diit oot‌p wiThin 1 hour to revent lock.,1,T1|T2|T5,1
+scen_1_06,city_bank,"Apnar City Bank Tk 5,000 bonus claim korte hxxps://city-bank-kyc[.]top/verify e giye PIN ar OTP submit korun.",1,T2|T5,1
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_conv_4_01,conv_sa_paribahan,"S: HelLo SakIb, сalliiiing qwrtyps frommmm S​a ❗ Pаribahhhhn ai RpОrt cArgo. ||| R: yeS, 🎁 Is m parcEl Here? qwrtyps ||| S: pArcl ⚠️ #6950 aRried from​ abroad tOda. ||| R: WhEn willll It be 👉 delivEred? wkrjfejejrn ||| S: CuS‍t​оmS clеarEd onllly After yyyou рayyyy Tk 👉 50,000 storageee Fеe at hxxp﻿s://bd-vеr​Ify[.]Хyz/s​а-paribahan within 3 daYs . wkrjfejejrn",4,T1|T3|T5,2
+scen_4_05,steadfast,Steadfast ট্র্যাকিং: আপনার প্যাকেজ #3234 পৌঁছেছে। স্লিপ দেখতে hxxps://bd-verify[.]xyz/steadfast লিংকে ক্লিক করুন।,4,T1,3
+scen_4_10,pathao,Pathao: Weight mismatch on parcel #8635. Pay Tk 120 extra surcharge via hxxps://reward-pathao[.]xyz to avoid delay.,4,T1|T3,3
+scen_5_02,robi,"Robi bundle offer: Tk 1,200 e 15GB data, meyad 15 din. MyRobi app theke nin.",5,NONE,0
+scen_4_05,pathao,Pathao: Apnar parcel #7722 track korte ebong receive korte hxxps://pathao-claim[.]top e tap korun.,4,T1,3
+scen_4_06,pathao,Pathao: Urgent! Parcel #1775 will be auctioned in 30 minutes. Call +8801XXXXXXXXX immediately to confirm.,4,T1|T5,5
+scen_4_05,pathao,Pathao ট্র্যাকিং: আপনার প্যাকেজ #3161 পৌঁছেছে। স্লিপ দেখতে hxxps://reward-pathao[.]xyz লিংকে ক্লিক করুন।,4,T1,3
+scen_4_10,pathao,Pathao notice: Parcel #6080 extra weight charge Tk 100 dite hxxps://pathao-claim[.]top e jan.,4,T1|T3,3
+scen_4_04,steadfast,Steadfast: Apnar parcel #2369 redelivery korte Tk 50 fee pay korte hobe hxxps://reward-steadfast[.]xyz e.,4,T1|T3|T5,2
+scen_4_07,steadfast,"Steadfast সিওডি ভেরিফিকেশন: অর্ডার #6629 কনফার্ম করতে 2,000 টাকা অগ্রিম পরিশোধ করুন।",4,T1|T3,2
+scen_0_03,city_bank,"Remi‍nde​r‍: Your City Bank mo‌nthl​y b‍ill Of T k 10,000 is‍ due in 24 hhhhour﻿S. paY via o‌Ffic ial apP.",0,NONE,0
+scen_0_03,city_bank,"Reminder: Your City Bank monthly bill of Tk 10,000 is due in 30 minutes. Pay via official app.",0,NONE,0
+scen_1_07,gp,GP SIM Verification: Your SIM will be deactivated in 30 minutes. Send NID front/back photo and OTP.,1,T1|T2|T5,1
+scen_4_09,pathao,pathao SmaR‍t locke‌r: Ins‍Tall ou​r﻿ сourier apP at hxxps://reward-pa‌ttthao[.]xxxYz to bcdfghj g eNеrate‌ your paRcel PickkkUp QR code.,4,T1,4
+scen_5_06,pathao,pathao Food: enjo​y 20% оff on Your Next 3 ordеrS ove Tk 👉 mnbvcxz 400 w‍ ith prOmo codddeeee FОD20.,5,NONE,0
+scen_0_09,city_bank,"Hey Tasn im, di d you Eceie the nоtes I sent bcdfghj ye sterday? Let m е kNow. 👉",0,NONE,0
+scen_conv_4_01,conv_steadfast,"Hello Sakib, calling from Steadfast airport cargo. ||| Customs cleared only after you pay Tk 1,200 storage fee at hxxp://track-parcel[.]info/steadfast within 24 hours.",4,T1|T3|T5,2
+scen_4_03,steadfast,Steadfast: Delivery failed due to incomplete address. Update your address within 24 hours at hxxp://track-parcel[.]info/steadfast or parcel returns.,4,T1|T5,3
+scen_4_04,steadfast,Steadfast: Apnar parcel #6690 redelivery korte Tk 50 fee pay korte hobe hxxp://track-parcel[.]info/steadfast e.,4,T1|T3|T5,2
+scen_0_05,city_bank,"City Bank card transaction Tk 10,000 approved. Info er jonno official helpline e jogajog korun.",0,NONE,0
+scen_4_05,steadfast,Steadfast: Apnar parcel #1764 track korte ebong receive korte hxxps://steadfast-kyc[.]top/verify e tap korun.,4,T1,3
+scen_0_03,robi,"আপনার Robi বিল 1,500 টাকা আগামী 3 days এর মধ্যে পরিশোধ করুন।",0,NONE,0
+scen_dom_2,dom_banglalink,"[Group Notice] @everyone Banglalink just launched a giveaway! Every member gets Tk 25,000 cashback—pay Tk 300 verification charge via hxxps://reward-banglalink[.]xyz to unlock.",2,T1|T3|T4,2
+scen_2_01,gp,"ConGGGratulatoNs! YYYYou wooon‌ а brand 🔥 new c ar & tk 5,000 i﻿n‍ GP Me﻿ga dra. Pay Tk 500 registration feE To 01XXXXXXXXXХ.",2,T1|T3|T4,2
+scen_4_08,steadfast,এয়ারপোর্ট কার্গো Steadfast: আপনার আন্তর্জাতিক পার্সেল ক্লিয়ারেন্সের জন্য 300 টাকা ফি দিন।,4,T1|T3|T5,2
+scen_2_08,city_bank,"City Bank gift voucher Tk 25,000 jitechen. Tax fee Tk 400 pathale taka release hobe.",2,T3|T4,2
+scen_5_06,pathao,Pathao Food: Enjoy 20% off on your next 3 orders over Tk 400 with promo code FOOD20.,5,NONE,0
+scen_conv_4_01,conv_sa_paribahan,"A: Hello Rah‍im, alling from SAAA ParibahaNNNN airppport ca rrrgo. ||| B: y‍es, is my pаrcElllhere? ||| A: parcelLl #2394 Arrived f‌rom abroad ❗ tоday. ||| B: When wkrjfejejrn will it bE delIverеd? ||| A: Cust‍Oms cle​ared onlY aft‌eryou 🎁 payyyy Tk 1,500 STorrrra﻿Ge feE Аt xkcdpl hXxPPPP://reward-sa-pariBaHАn[.]xyz wihin 24 hоurs.",4,T1|T3|T5,2
+scen_5_01,pathao,"Pathao 11.11 offer! Sob item e 25% discount, voucher code SAVE25.",5,NONE,0
+scen_4_02,pathao,"Pathao Customs: Overseas parcel clear korte Tk 25,000 duty lagbe 3 days er moddhe. bKash korun 01XXXXXXXXX e.",4,T1|T3|T5,2
+scen_conv_1_01,conv_bkash,"Assalamu Alaikum Farhana vai, kemon achen? ||| Wa Alaikum Assalam, bhalo. Apni ke bolchen? ||| Ami bKash customer care theke bolchi. Apnar account verification pending. ||| Oh, ki korte hobe? ||| Kichu na, just apnar phone e ekta 6-digit OTP gese, oita bolen noile 3 days por account off hobe.",1,T1|T2|T5,1
+scen_5_02,robi,"Robi bundle offer: Tk 1,500 e 15GB data, meyad 15 din. MyRobi app theke nin.",5,NONE,0
+scen_1_08,city_bank,I am calling from City Bank Head Office. Your ATM card is expired; tell me your internet banking password and OTP.,1,T1|T2,1
+scen_2_08,city_bank,"City Bank gift voucher Tk 1,500 jitechen. Tax fee Tk 400 pathale taka release hobe.",2,T3|T4,2
+scen_0_08,pathao,Pathao: আপনার অর্ডার #7209 সফলভাবে ডেলিভার হয়েছে। আমাদের সাথে থাকার জন্য ধন্যবাদ।,0,NONE,0
+scen_conv_1_01,conv_bkash,"Assalamu Alaikum Tanvir vai, kemon achen? ||| Kichu na, just apnar phone e ekta 6-digit OTP gese, oita bolen noile 30 minutes por account off hobe.",1,T1|T2|T5,1
+scen_conv_4_01,conv_steadfast,"S: Hello Farhana, calling from Steadfast airport cargo. ||| R: Yes, is my parcel here? ||| S: Parcel #6217 arrived from abroad today. ||| R: When will it be delivered? ||| S: Customs cleared only after you pay Tk 1,500 storage fee at hxxps://reward-steadfast[.]xyz within 3 days.",4,T1|T3|T5,2
+scen_conv_4_01,conv_steadfast,"S: Hello Rahim, calling from Steadfast airport cargo. ||| R: Yes, is my parcel here? ||| S: Parcel #9222 arrived from abroad today. ||| R: When will it be delivered? ||| S: Customs cleared only after you pay Tk 1,500 storage fee at hxxps://bd-verify[.]xyz/steadfast within 24 hours.",4,T1|T3|T5,2
+scen_3_09,city_bank,"Join VIP investment group, 30 minutes e Tk 50,000 profit sure. Entry fee Tk 1,000 City Bank korun.",3,T3|T5|T6,2
+scen_4_10,pathao,Pathao: পার্সেল #7031 এর ওজন বেশি হওয়ায় অতিরিক্ত ১২০ টাকা চার্জ দিন: hxxps://reward-pathao[.]xyz,4,T1|T3,3
+scen_dom_1,dom_bkash,"Subject: URGENT KYC Suspension Notice
+Dear bKash Customer,
+Your account is flagged for suspicious activity and will be suspended in 1 hour. Submit your NID number, PIN, and 6-digit OTP at hxxp://track-parcel[.]info/bkash immediately.",1,T1|T2|T5,1
+scen_4_04,steadfast,Steadfast এক্সপ্রেস: পার্সেল #8607 পুনরায় ডেলিভারির জন্য ৪৫ টাকা চার্জ পরিশোধ করুন: hxxps://bd-verify[.]xyz/steadfast,4,T1|T3|T5,2
+scen_0_07,robi,"ধন্যবাদ! আপনার Robi নম্বরে 50,000 টাকা রিচার্জ সফল হয়েছে।",0,NONE,0
+scen_4_05,steadfast,Steadfast Tracking: Your package #1709 has arrived. Download tracking slip here: hxxps://reward-steadfast[.]xyz,4,T1,3
+scen_5_01,pathao,PathAo ঈ﻿দ মেগা সেল! সব পণ্যে ৩০% পর্যন্ত ছাড ়। আজই 👉 শপিং qwrtyps করুন!,5,NONE,0
+scen_2_01,gp,"অভিনন্দন! GP মেগা ড্র-তে আপনি 1,500 টাকা জিতেছেন। পুরস্কার পেতে ৫০০ টাকা ফি পাঠান।",2,T1|T3|T4,2
+scen_5_07,city_bank,City Bank Credit Card: Enjoy Buy-1-Get-1 buffet at leading 5-star hotels this weekend.,5,NONE,0
+scen_2_02,robi,Rоbi থেকে ফ্রি ২০ জিবি ইন্টারনেট গিফট! ⚠️ 1 ho‌ur এর‍ মধ্যে hхxps://bD-verfy[.]xy z/R obi লিংকে bcdfghj ক্লিক করুন।,2,T1|T4|T5,3
+scen_0_07,robi,"Apnar Robi number e Tk 2,000 recharge hoyeche. Current balance Tk 145.",0,NONE,0
+scen_4_08,steadfast,এয়ারপোর্ট কার্গো Steadfast: আপনার আন্তর্জাতিক পার্সেল ক্লিয়ারেন্সের জন্য 500 টাকা ফি দিন।,4,T1|T3|T5,2
+scen_conv_4_01,conv_steadfast,"Caller: Hello Rahim, calling from Steadfast airport cargo. ||| Caller: Customs cleared only after you pay Tk 5,000 storage fee at hxxps://reward-steadfast[.]xyz within 24 hours.",4,T1|T3|T5,2
+scen_2_02,gp,GP থেকে ফ্রি ২০ জিবি ইন্টারনেট গিফট! 24 hours এর মধ্যে hxxps://bd-verify[.]xyz/gp লিংকে ক্লিক করুন।,2,T1|T4|T5,3
+scen_4_09,pathao,Pathao Smart Locker: Install our courier app at hxxps://reward-pathao[.]xyz to generate your parcel pickup QR code.,4,T1,4
+scen_5_06,pathao,Pathao Food: Enjoy 20% off on your next 3 orders over Tk 400 with promo code FOOD20.,5,NONE,0
+scen_5_02,gp,"GP Offer: Get 10GB + 200 mins at Tk 5,000 for 30 days. Dial *121*50# to activate.",5,NONE,0
+scen_3_03,city_bank,"Double your money in 30 minutes! Invest Tk 10,000 in our VIP crypto pool and get 300% return. Send to 01XXXXXXXXX.",3,T3|T6,2
+scen_5_06,pathao,Pathao ride e 50% discount! Promo code RIDE50 use korun aajkei.,5,NONE,0
+scen_4_07,steadfast,"Steadfast COD Verification: Pre-pay Tk 2,000 security deposit for your order #9202 at hxxp://track-parcel[.]info/steadfast.",4,T1|T3,2
